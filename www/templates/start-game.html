@@ -1,0 +1,15 @@
+<ion-view title="Game Credentials">
+    <ion-content has-header="true" padding="true">
+        <div class="list list-inset">
+            <label class="item item-input">
+                <input type="text" placeholder="Game Code" ng-model="gameCode" />
+            </label>
+            <label class="item item-input">
+                <input type="text" placeholder="Team Name" ng-model="teamName" />
+            </label>
+            <button class="button button-block button-dark" ng-click="startGame(gameCode,teamName)">
+                Start Game
+            </button>
+        </div>
+    </ion-content>
+</ion-view>
