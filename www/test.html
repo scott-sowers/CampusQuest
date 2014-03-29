@@ -19,6 +19,7 @@ app.config(['$httpProvider', function ($httpProvider) {
         // http://stackoverflow.com/questions/17289195/angularjs-post-data-to-external-rest-api
         $httpProvider.defaults.useXDomain = true;
         delete $httpProvider.defaults.headers.common['X-Requested-With'];
+        $httpProvider.defaults.headers.post["Content-Type"] = "application/x-www-form-urlencoded";
 }]);
 
 app.factory('QuestApi', function($http) {
@@ -28,10 +29,7 @@ app.factory('QuestApi', function($http) {
         return $http({
             method: method,
             url: _baseUrl + '/' + urlParams,
-            data: data,
-            headers: {
-                'Content-Type': 'application/json'
-            }
+            data: data
         });
     };
     
@@ -40,13 +38,13 @@ app.factory('QuestApi', function($http) {
             return _doRequest('GET', 'event/retrieve/code/' + eventCode);
         },
         addTeamToEvent: function(eventId, teamName) {
-            var data = {
+            var data = [{
                 name: teamName,
                 point: 0,
-                events: {
+                events: [{
                     id: eventId
-                }
-            };
+                }]
+            }];
             return _doRequest('POST', 'team/add', data);
         }
     };
