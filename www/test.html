@@ -1,0 +1,68 @@
+<!doctype html>
+<html ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js"></script>
+    <script src="lodash.js" type="text/javascript"></script>
+    <script src="restangular.js" type="text/javascript"></script>
+</head>
+<body>
+    <div ng-controller="HomeCtrl">
+        <pre>{{data | json }}</pre>
+    </div>
+<script>
+var app = angular.module('myApp', []);
+    
+app.config(['$httpProvider', function ($httpProvider) {
+        // ...
+
+        // delete header from client:
+        // http://stackoverflow.com/questions/17289195/angularjs-post-data-to-external-rest-api
+        $httpProvider.defaults.useXDomain = true;
+        delete $httpProvider.defaults.headers.common['X-Requested-With'];
+}]);
+
+app.factory('QuestApi', function($http) {
+    var _baseUrl = 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api';
+    var _doRequest = function(method, urlParams) {
+        var data = arguments[2] || '';
+        return $http({
+            method: method,
+            url: _baseUrl + '/' + urlParams,
+            data: data,
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        });
+    };
+    
+    return {
+        getEventByCode: function(eventCode) {
+            return _doRequest('GET', 'event/retrieve/code/' + eventCode);
+        },
+        addTeamToEvent: function(eventId, teamName) {
+            var data = {
+                name: teamName,
+                point: 0,
+                events: {
+                    id: eventId
+                }
+            };
+            return _doRequest('POST', 'team/add', data);
+        }
+    };
+});
+
+app.controller('HomeCtrl', function($scope,QuestApi) {
+    /*QuestApi.getEventByCode('B7HU1').success(function(data) {
+        $scope.data = data;
+    });*/
+    
+    QuestApi.addTeamToEvent(1,'Team Scott').success(function(data) {
+        $scope.data = data; 
+    });
+});
+</script>
+</body>
+</html>
