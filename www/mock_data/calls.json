@@ -1,0 +1,38 @@
+{
+    getEvent: {
+        method: 'GET',
+        url: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api/event/retrieve/code/B7HU1',
+    addTeam: {
+        method: 'POST',
+        url: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api/team/add',
+        data: [{
+            name: 'Team Scott',
+            point: 0,
+            events: [{
+                id: 1
+            }]
+        }]
+    },
+    addTeamAchievement: {
+        method: 'POST',
+        url: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api/teamachievement/add',
+        data: [{
+            team: 338,
+            achievement: 1,
+            picture: 'https://onedrive.live.com/redir?resid=2E3C33E1DCCD09BB!2969&authkey=!AIt9TnnN0KyusKA&v=3&ithint=photo%2c.jpg'
+        }]
+    },
+    editTeamAchievement: {
+        method: 'PUT',
+        url: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api/teamachievement/edit',
+        data: [{
+            team: 338,
+            achievement: 1,
+            picture: 'https://onedrive.live.com/redir?resid=2E3C33E1DCCD09BB!5302&authkey=!AJRd06xk5jHj3Bs&v=3&ithint=photo%2c.jpg'
+        }]
+    },
+    getTeam: {
+        method: 'GET',
+        url: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api/team/retrieve/name/Team%20Scott'
+    }
+}
