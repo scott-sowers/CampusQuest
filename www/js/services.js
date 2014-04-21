@@ -1,16 +1,17 @@
-angular.module('CampusQuest.services',[])
+angular.module('CampusQuest.services', [])
 
 .factory('QuestSession', function($rootScope) {
     var _teamName;
     var _eventId;
-    var _achievements;
+    var _achievements = [];
 
-    function loadAchievements(teamAchievements) {
+    function initAchievements(eventAchievements, teamAchievements) {
         var defaultPhoto = '/img/achievement-placeholder.png';
-        for (var i = 0; i < _achievements.length; i++) {
-            _achievements[i].achievementPhoto = defaultPhoto;
-            _achievements[i].achievementComplete = false;
+        for (var i = 0; i < eventAchievements.length; i++) {
+            eventAchievements[i].achievementPhoto = defaultPhoto;
+            eventAchievements[i].achievementComplete = false;
         }
+        return eventAchievements;
     };
 
     return {
@@ -20,8 +21,9 @@ angular.module('CampusQuest.services',[])
         init: function(eventId, teamName, eventAchievements, teamAchievements) {
             _eventId = eventId;
             _teamName = teamName;
-            _achievements = eventAchievements;
-            loadAchievements(teamAchievements);
+            _achievements = initAchievements(eventAchievements, teamAchievements);
+            $rootScope.$broadcast('achievementsUpdated');
+            console.log('init foo');
         },
         getAchievements: function() {
             return _achievements;

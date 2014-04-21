@@ -19,7 +19,7 @@ angular.module('CampusQuest', ['ionic', 'apiMock', 'CampusQuest.services', 'Camp
 
     // Configure API Mock
     httpInterceptorProvider.config({
-        mockDataPath: '/mock_data',
+        mockDataPath: 'mock_data',
         apiPath: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api',
         apiMocked: true
     });

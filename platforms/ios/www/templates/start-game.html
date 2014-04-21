@@ -1,9 +1,8 @@
 <ion-view title="Game Credentials">
     <ion-content has-header="true" padding="true">
-        <pre>{{data | json}}</pre>
         <div class="list list-inset">
             <label class="item item-input">
-                <input type="text" placeholder="Game Code" ng-model="gameCode" />
+                <input type="text" placeholder="Game Code" ng-model="gameCode" ng-filter="uppercase" />
             </label>
             <label class="item item-input">
                 <input type="text" placeholder="Team Name" ng-model="teamName" />

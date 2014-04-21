@@ -1,7 +1,5 @@
 angular.module('CampusQuest.controllers', ['ionic'])
 
-
-
 .controller('StartGameCtrl', function($rootScope, $scope, $state, $ionicPopup, QuestApi, QuestSession) {
     $scope.startGame = function(gameCode,teamName) {
 
@@ -11,7 +9,6 @@ angular.module('CampusQuest.controllers', ['ionic'])
 
             QuestApi.addTeamToEvent(teamName).success(function(data) {
                 QuestSession.init(eventId, data.teamName, achievements, data.teamTeamAchievements);
-                $rootScope.$emit('achievementsUpdated');
                 $state.go('achievements');
             }).error(function(data) {
                 $ionicPopup.alert({
@@ -21,7 +18,7 @@ angular.module('CampusQuest.controllers', ['ionic'])
                 });
             });
 
-        }).error(function(data) {
+        }).error(function(data, status, headers) {
             $ionicPopup.alert({
                 title: 'Invalid Game Code'
             }).then(function(res) {
@@ -32,12 +29,7 @@ angular.module('CampusQuest.controllers', ['ionic'])
 })
 
 .controller('AchievementsCtrl', function($scope, $state, $ionicPopup, QuestApi, QuestSession) {
-    /*QuestSession.onAchievementsUpdated($scope,function() {
-        console.log('foo-bar-1');
-        $scope.achievements = QuestSession.achievements;
-    })*/
-    $scope.achievements = QuestSession.getAchievements();
-    $scope.$on('achievementsUpdated', function() {
-        console.log('updated');
-    });
+    //$scope.$on('achievementsUpdated', function() {
+        $scope.achievements = QuestSession.getAchievements();
+    //});
 });

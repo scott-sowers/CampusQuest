@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5AD0B1C3-0374-49E8-B2B9-B6549BDD7955</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Campus Quest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74899D62-838F-4037-82BC-93F81077EA09</key>
+		<string>https://github.com/scottso87/CampusQuest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/Campus Quest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74899D62-838F-4037-82BC-93F81077EA09</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/scottso87/CampusQuest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>74899D62-838F-4037-82BC-93F81077EA09</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74899D62-838F-4037-82BC-93F81077EA09</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CampusQuest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -2,40 +2,40 @@ TCampus Quest
 v6
 r1
 cCheck dependencies
-cProcessInfoPlistFile /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist
+cProcessInfoPlistFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist
 cPhaseScriptExecution Copy\ www\ directory /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh
-cCpResource Campus\ Quest/Resources/icons/icon-76.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-76.png
-cCpResource Campus\ Quest/Resources/icons/icon-40@2x.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-40@2x.png
-cCpResource Campus\ Quest/Resources/icons/icon-72.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-72.png
-cCpResource Campus\ Quest/Resources/icons/icon.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon.png
-cCpResource Campus\ Quest/Resources/icons/icon@2x.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon@2x.png
-cCopyStringsFile /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/en.lproj/Localizable.strings Campus\ Quest/Resources/en.lproj/Localizable.strings
+cCpResource Campus\ Quest/Resources/icons/icon-76.png build/emulator/Campus\ Quest.app/icon-76.png
+cCpResource Campus\ Quest/Resources/icons/icon-40@2x.png build/emulator/Campus\ Quest.app/icon-40@2x.png
+cCpResource Campus\ Quest/Resources/icons/icon-72.png build/emulator/Campus\ Quest.app/icon-72.png
+cCpResource Campus\ Quest/Resources/icons/icon.png build/emulator/Campus\ Quest.app/icon.png
+cCpResource Campus\ Quest/Resources/icons/icon@2x.png build/emulator/Campus\ Quest.app/icon@2x.png
+cCopyStringsFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/en.lproj/Localizable.strings Campus\ Quest/Resources/en.lproj/Localizable.strings
 cCompileXIB /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.xib
-cCpResource Campus\ Quest/Resources/icons/icon-50.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-50.png
-cCpResource Campus\ Quest/Resources/icons/icon-60@2x.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-60@2x.png
-cCopyStringsFile /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/de.lproj/Localizable.strings Campus\ Quest/Resources/de.lproj/Localizable.strings
-cCpResource Campus\ Quest/Resources/icons/icon-small.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-small.png
-cCpResource Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Default-Landscape@2x~ipad.png
-cCpResource Campus\ Quest/Resources/splash/Default-Landscape~ipad.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Default-Landscape~ipad.png
-cCpResource Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Default-Portrait@2x~ipad.png
-cCpResource Campus\ Quest/Resources/icons/icon-small@2x.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-small@2x.png
-cCpResource Campus\ Quest/Resources/splash/Default-Portrait~ipad.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Default-Portrait~ipad.png
-cCpResource Campus\ Quest/Resources/icons/icon-40.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-40.png
-cCpResource Campus\ Quest/Resources/splash/Default@2x~iphone.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Default@2x~iphone.png
-cCpResource Campus\ Quest/Resources/icons/icon-60.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-60.png
-cCpResource Campus\ Quest/Resources/splash/Default~iphone.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Default~iphone.png
-cCpResource Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Default-568h@2x~iphone.png
-cCpResource Campus\ Quest/Resources/icons/icon-50@2x.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-50@2x.png
-cCpResource Campus\ Quest/Resources/icons/icon-76@2x.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-76@2x.png
-cCpResource Campus\ Quest/Resources/icons/icon-72@2x.png /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/icon-72@2x.png
-cProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-edpmtrolfppofrbsiqhnaravjwqd/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCpResource Campus\ Quest/Resources/icons/icon-50.png build/emulator/Campus\ Quest.app/icon-50.png
+cCpResource Campus\ Quest/Resources/icons/icon-60@2x.png build/emulator/Campus\ Quest.app/icon-60@2x.png
+cCopyStringsFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/de.lproj/Localizable.strings Campus\ Quest/Resources/de.lproj/Localizable.strings
+cCpResource Campus\ Quest/Resources/icons/icon-small.png build/emulator/Campus\ Quest.app/icon-small.png
+cCpResource Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png build/emulator/Campus\ Quest.app/Default-Landscape@2x~ipad.png
+cCpResource Campus\ Quest/Resources/splash/Default-Landscape~ipad.png build/emulator/Campus\ Quest.app/Default-Landscape~ipad.png
+cCpResource Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png build/emulator/Campus\ Quest.app/Default-Portrait@2x~ipad.png
+cCpResource Campus\ Quest/Resources/icons/icon-small@2x.png build/emulator/Campus\ Quest.app/icon-small@2x.png
+cCpResource Campus\ Quest/Resources/splash/Default-Portrait~ipad.png build/emulator/Campus\ Quest.app/Default-Portrait~ipad.png
+cCpResource Campus\ Quest/Resources/icons/icon-40.png build/emulator/Campus\ Quest.app/icon-40.png
+cCpResource Campus\ Quest/Resources/splash/Default@2x~iphone.png build/emulator/Campus\ Quest.app/Default@2x~iphone.png
+cCpResource Campus\ Quest/Resources/icons/icon-60.png build/emulator/Campus\ Quest.app/icon-60.png
+cCpResource Campus\ Quest/Resources/splash/Default~iphone.png build/emulator/Campus\ Quest.app/Default~iphone.png
+cCpResource Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png build/emulator/Campus\ Quest.app/Default-568h@2x~iphone.png
+cCpResource Campus\ Quest/Resources/icons/icon-50@2x.png build/emulator/Campus\ Quest.app/icon-50@2x.png
+cCpResource Campus\ Quest/Resources/icons/icon-76@2x.png build/emulator/Campus\ Quest.app/icon-76@2x.png
+cCpResource Campus\ Quest/Resources/icons/icon-72@2x.png build/emulator/Campus\ Quest.app/icon-72@2x.png
+cProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest normal i386
-cGenerateDSYMFile /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest
-cTouch /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app
+cLd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest normal i386
+cGenerateDSYMFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest
+cTouch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
 c00000000525642F10000000000000176
@@ -53,179 +53,179 @@ t1390080171
 s416
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
-c0000000052DAF0AE000000000047C980
-t1390080174
-s4704640
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
-c0000000052DAF0AE0000000000098030
-t1390080174
-s622640
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-c0000000052DAF0AD0000000000059350
-t1390080173
-s365392
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-c0000000052DAF0AF00000000005B82A0
-t1390080175
-s5997216
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c0000000052DAF0AF0000000000445870
-t1390080175
-s4479088
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
-c0000000052DAF0AF00000000000EC820
-t1390080175
-s968736
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
-c0000000052DAF0AF0000000000133B60
-t1390080175
-s1260384
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000052DAF0B0000000000088C680
-t1390080176
-s8963712
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-c0000000052DAF0B200000000001BA530
-t1390080178
-s1811760
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000052DAF0B70000000001DB9910
-t1390080183
-s31168784
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-c0000000052DAF0CB00000000002B9F20
-t1390080203
-s2858784
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
-c0000000052DAF0D30000000000002338
-t1390080211
-s9016
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-c0000000052DAF0D4000000000008D300
-t1390080212
-s578304
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-c0000000052DAF0D3000000000038ACB0
-t1390080211
-s3714224
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-c00000000527BE15D00000000000141F0
-t1383850333
-s82416
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-c0000000052DAF0D40000000000013500
-t1390080212
-s79104
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-c0000000052DAF0D40000000000033BA0
-t1390080212
-s211872
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-c0000000052DAF0D4000000000001CFB0
-t1390080212
-s118704
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-c0000000052DAF0D4000000000001B2B0
-t1390080212
-s111280
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-c0000000052DAF0D400000000000632B0
-t1390080212
-s406192
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-c0000000052DAF0D40000000000008880
-t1390080212
-s34944
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-c0000000052DAF0D40000000000015080
-t1390080212
-s86144
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-c0000000052DAF0D400000000000230E0
-t1390080212
-s143584
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-c0000000052DAF0D4000000000000E380
-t1390080212
-s58240
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-c0000000052DAF0D40000000000087200
-t1390080212
-s553472
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-c0000000052DAF0D400000000000171A0
-t1390080212
-s94624
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
-c0000000052DAF0D40000000000039C10
-t1390080212
-s236560
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-c0000000052DAF0D4000000000000B0B0
-t1390080212
-s45232
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-c0000000052DAF0D40000000000167FE0
-t1390080212
-s1474528
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-c0000000052DAF0D400000000000106A0
-t1390080212
-s67232
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-c0000000052DAF0D4000000000001CE40
-t1390080212
-s118336
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-c0000000052DAF0D40000000000071040
-t1390080212
-s462912
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-c0000000052DAF0D40000000000067A10
-t1390080212
-s424464
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-c0000000052DAF0D4000000000001BAD0
-t1390080212
-s113360
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-c0000000052DAF0D40000000000088BA0
-t1390080212
-s560032
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
 c0000000053119F8A0000000000000198
@@ -428,9 +428,9 @@ t1395602673
 s47944
 
 N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-c0000000052DAF1010000000000005004
-t1390080257
-s20484
+c00000000000000000000000000000000
+t2
+s0
 
 N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
 c00000000532F34F2000000000000514C
@@ -438,8 +438,8 @@ t1395602674
 s20812
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist
-c00000000534CD4770000000000000A15
-t1397544055
+c0000000053545DB70000000000000A15
+t1398037943
 s2581
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Prefix.pch
@@ -603,11 +603,11 @@ t1394916518
 s1118
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/AppDelegate.o
-t1397543865
+t1397605994
 s73996
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/CDVDevice.o
-t1397543865
+t1397605994
 s50344
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/Campus Quest.LinkFileList
@@ -616,11 +616,11 @@ t1394917107
 s626
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/MainViewController.o
-t1397543865
+t1397605994
 s50804
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/main.o
-t1397543865
+t1397605994
 s2996
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Script-304B58A110DAC018002A0835.sh
@@ -629,16 +629,16 @@ t1394916534
 s45
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app
-t1395021288
+t1398037944
 s1020
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
-t1394917112
+t1398037938
 s102
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
-t1394917107
-s286232
+t1397605994
+s286272
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Default-568h@2x~iphone.png
 t1394916535
@@ -669,7 +669,7 @@ t1394916535
 s10394
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
-t1395021288
+t1398037944
 s1293
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/MainViewController.nib
@@ -850,16 +850,16 @@ t1394916533
 s1142
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/libCordova.a
-c000000005324BCB600000000000D9420
-t1394916534
-s889888
+c00000000534DC66900000000000D2B70
+t1397605993
+s863088
 
 N/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app
-t1397544056
+t1397593826
 s1020
 
 N/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
-t1397544049
+t1397544056
 s102
 
 N/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
@@ -895,7 +895,7 @@ t1394916535
 s10394
 
 N/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
-t1397544056
+t1397593826
 s1293
 
 N/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/MainViewController.nib
@@ -1111,8 +1111,8 @@ t1383850332
 s776480
 
 N/usr/lib/system/libdyld.dylib
-c00000000527BE15D00000000000141F0
-t1383850333
+c000000005329B80000000000000141F0
+t1395243008
 s82416
 
 N/usr/lib/system/libkeymgr.dylib
@@ -1219,17 +1219,21 @@ N/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.0.2
 t1394916536
 s5342764
 
+N/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus Quest-Prefix.pch.pch
+t1397605994
+s5374128
+
 N/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus Quest-Prefix-edpmtrolfppofrbsiqhnaravjwqd/Campus Quest-Prefix.pch.pch
 t1397543865
 s5374128
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies810918f80bfdb841^123218f80bfdb841^---0#1#1#--18"Check dependencies36"E97A062A-C228-48E9-A646-1912BE0493BA-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies904e89389504b941^3e7889389504b941^---0#1#1#--18"Check dependencies36"CDE197A3-B52C-4947-9AB9-7CEB676E7A7D-
 
 CCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419236665.366702
-e419236665.464711
+s419298794.209712
+e419298794.299823
 r1
 xCompileC
 xbuild/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/AppDelegate.o
@@ -1240,24 +1244,24 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.m
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.m230"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o [1mCampus\ Quest/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb8025e390bfdb841^a1f776390bfdb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Classes/AppDelegate.m0000000000000000^4006"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o [1mCampus\ Quest/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-edpmtrolfppofrbsiqhnaravjwqd/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o36"6419AE17-CC11-4BCC-B891-5DE71DB4A201-
-bEAF854EE-2022-4F00-8727-DB018B1E88C7
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.m230"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o [1mCampus\ Quest/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4bca35eafdfdb841^0dc24ceafdfdb841^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Classes/AppDelegate.m0000000000000000^4006"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o [1mCampus\ Quest/Classes/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o36"A890952C-97A6-47E2-A73C-146E72A3CFCF-
+b3C4E0CAC-69CA-4471-B3C1-B5B203A1CB5F
 
 CCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419236665.368048
-e419236665.474500
+s419298794.210822
+e419298794.296348
 r1
 xCompileC
 xbuild/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/CDVDevice.o
@@ -1267,33 +1271,33 @@ xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.m
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDV.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDV.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVDebug.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVTimer.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.m252"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o [1mCampus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3b555e390bfdb841^8e7979390bfdb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^4046"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o [1mCampus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-edpmtrolfppofrbsiqhnaravjwqd/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o36"1D2D8EFE-D8DD-4FE2-B5F3-D7EF13BA2B78-
-bEAF854EE-2022-4F00-8727-DB018B1E88C7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.m252"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o [1mCampus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb21336eafdfdb841^0dde4beafdfdb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^4046"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o [1mCampus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/CDVDevice.o36"F089E82A-203D-4FAD-A36C-45BD7D99D73D-
+b3C4E0CAC-69CA-4471-B3C1-B5B203A1CB5F
 
 CCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419236665.367008
-e419236665.450129
+s419298794.210070
+e419298794.287640
 r1
 xCompileC
 xbuild/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/MainViewController.o
@@ -1304,23 +1308,23 @@ xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.m
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
-d/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.m244"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o [1mCampus\ Quest/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e2a5e390bfdb841^fdf972390bfdb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Classes/MainViewController.m0000000000000000^4048"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o [1mCampus\ Quest/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-edpmtrolfppofrbsiqhnaravjwqd/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o36"3F927555-FE67-409D-9A67-EFAF5BDC5B98-
-bEAF854EE-2022-4F00-8727-DB018B1E88C7
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.m244"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o [1mCampus\ Quest/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf71e36eafdfdb841^00a949eafdfdb841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Classes/MainViewController.m0000000000000000^4048"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o [1mCampus\ Quest/Classes/MainViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/MainViewController.o36"E3514B7B-BAF5-429D-A476-0E31FB7D6113-
+b3C4E0CAC-69CA-4471-B3C1-B5B203A1CB5F
 
 CCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s419236665.366145
-e419236665.410239
+s419298794.209311
+e419298794.247108
 r1
 xCompileC
 xbuild/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/main.o
@@ -1330,8 +1334,8 @@ xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/main.m
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/main.m208"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o [1mCampus\ Quest/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler02d75d390bfdb841^ab0669390bfdb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/main.m0000000000000000^3948"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o [1mCampus\ Quest/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-edpmtrolfppofrbsiqhnaravjwqd/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/main.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o36"46EEE4E3-EA4C-463F-B127-40C17A7D2855-
-bEAF854EE-2022-4F00-8727-DB018B1E88C7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/main.m208"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o [1mCampus\ Quest/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler64b135eafdfdb841^bb423feafdfdb841^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/main.m0000000000000000^3948"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o [1mCampus\ Quest/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/main.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/main.o36"0D44E637-DCCB-4079-843D-E75BA3D00C36-
+b3C4E0CAC-69CA-4471-B3C1-B5B203A1CB5F
 
 CCompileXIB /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.xib
 s416609335.081745
@@ -1643,28 +1647,28 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy bu
 b634FAFFD-68B9-44DB-AC29-65B35394B2E2
 
 CGenerateDSYMFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest
-s416714088.404139
-e416714088.471196
+s419730744.739170
+e419730744.787159
 r1
 xGenerateDSYMFile
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM117"[1mGenerateDSYMFile[0m [1mbuild/emulator/Campus\ Quest.app.dSYM[0m build/emulator/Campus\ Quest.app/Campus\ Questcf8367688dd6b841^01a278688dd6b841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus%20Quest.app.dSYM/0000000000000000^726"[1mGenerateDSYMFile[0m [1mbuild/emulator/Campus\ Quest.app.dSYM[0m build/emulator/Campus\ Quest.app/Campus\ Quest    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM36"0465C17A-5F34-4F66-8CA5-6E3F3182A242-
-bB97F2B5C-548D-4858-B73D-CED8521FB93B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM101"GenerateDSYMFile build/emulator/Campus\ Quest.app.dSYM build/emulator/Campus\ Quest.app/Campus\ Questf44ebd389504b941^a88ac9389504b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus%20Quest.app.dSYM/0000000000000000^710"GenerateDSYMFile build/emulator/Campus\ Quest.app.dSYM build/emulator/Campus\ Quest.app/Campus\ Quest    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM36"A8119134-BDE5-44EE-9CC5-D96BBC5383FB-
+b13B8A72C-563B-4831-B338-C08D926D8372
 
 CGenerateDSYMFile /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest
-s419236856.346079
-e419236856.387096
+s419286626.776316
+e419286626.848540
 r1
 xGenerateDSYMFile
 x/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
 x/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM231"[1mGenerateDSYMFile[0m [1m/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Questdead58f80bfdb841^ce1b63f80bfdb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus%20Quest.app.dSYM/0000000000000000^840"[1mGenerateDSYMFile[0m [1m/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest -o /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM36"FDD25FE0-C9B3-45A1-89F5-8BBDD9993AAE-
-bC9D7FE25-DD76-49DF-BB13-2F47E5F32446
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM231"[1mGenerateDSYMFile[0m [1m/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Questa3ccc662cefdb841^9b3cd962cefdb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus%20Quest.app.dSYM/0000000000000000^840"[1mGenerateDSYMFile[0m [1m/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest -o /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM36"7B7D0826-5039-4892-A628-E3B649709542-
+bFBE3D00F-6568-43E9-820D-911895269E04
 
 CLd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest normal i386
-s416609907.263415
-e416609907.302214
+s419298794.302764
+e419298794.502743
 r1
 xLd
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
@@ -1672,53 +1676,54 @@ xnormal
 xi386
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/Campus Quest.LinkFileList
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/libCordova.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/main.o
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/AppDelegate.o
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/MainViewController.o
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/CDVDevice.o
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
 d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphonesimulator.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
-d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
 d/usr/lib/libSystem.B.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
 d/usr/lib/system/libcache.dylib
 d/usr/lib/system/libcommonCrypto.dylib
 d/usr/lib/system/libcompiler_rt.dylib
 d/usr/lib/system/libcopyfile.dylib
 d/usr/lib/system/libcorecrypto.dylib
-d/usr/lib/system/libdyld.dylib
 d/usr/lib/system/libkeymgr.dylib
 d/usr/lib/system/liblaunch.dylib
 d/usr/lib/system/libmacho.dylib
@@ -1739,9 +1744,8 @@ d/usr/lib/system/libsystem_pthread.dylib
 d/usr/lib/system/libsystem_sandbox.dylib
 d/usr/lib/system/libunc.dylib
 d/usr/lib/system/libunwind.dylib
-d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest69"[1mLd[0m build/emulator/Campus\ Quest.app/Campus\ Quest normal i38641814373f6d4b841^185e4d73f6d4b841^---0#0#1#--1846"[1mLd[0m build/emulator/Campus\ Quest.app/Campus\ Quest normal i386    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -filelist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/Campus\ Quest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/Campus\ Quest_dependency_info.dat -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest36"9A8216E3-BD03-428E-916B-22E693695879-
-b7DFFF545-2608-427A-A19B-8865E701FA66
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest69"[1mLd[0m build/emulator/Campus\ Quest.app/Campus\ Quest normal i386919b4deafdfdb841^5bb480eafdfdb841^---0#0#1#--1846"[1mLd[0m build/emulator/Campus\ Quest.app/Campus\ Quest normal i386    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -filelist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/Campus\ Quest.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=5.0 -framework AssetsLibrary /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -Xlinker -dependency_info -Xlinker /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/Campus\ Quest_dependency_info.dat -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest36"67D1CA71-F9BB-4E3D-B697-0C0475EFEF50-
+b3C4E0CAC-69CA-4471-B3C1-B5B203A1CB5F
 
 CLd /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest normal i386
 s419236665.475688
@@ -1825,38 +1829,38 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /
 bEAF854EE-2022-4F00-8727-DB018B1E88C7
 
 CPhaseScriptExecution Copy\ www\ directory /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh
-s419236856.105199
-e419236856.339627
+s419730744.547681
+e419730744.733630
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m0.210s
+oreal	0m0.166s
 ouser	0m0.060s
-osys	0m0.131s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'152"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.she0681bf80bfdb841^e12657f80bfdb841^-42"real	0m0.210suser	0m0.060ssys	0m0.131s3(21%IDEActivityLogMessage2@14"real	0m0.210s-419236856#1#14#-0#-----2@14"user	0m0.060s-419236856#15#14#-0#-----2@13"sys	0m0.131s-419236856#29#13#-0#-----0#0#1#--396"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    /bin/sh -c \"/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh\"36"17573A7C-5E3B-41F3-9551-D7CD4C88EDC1-
-bC9D7FE25-DD76-49DF-BB13-2F47E5F32446
+osys	0m0.098s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'144"PhaseScriptExecution Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.shce8a8c389504b941^abd1bb389504b941^-42"real	0m0.166suser	0m0.060ssys	0m0.098s3(21%IDEActivityLogMessage2@14"real	0m0.166s-419730744#1#14#-0#-----2@14"user	0m0.060s-419730744#15#14#-0#-----2@13"sys	0m0.098s-419730744#29#13#-0#-----0#0#1#--388"PhaseScriptExecution Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    /bin/sh -c \"/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh\"36"C16F29C7-E3F2-446F-8DC1-C32474B8AA80-
+b13B8A72C-563B-4831-B338-C08D926D8372
 
 CProcessInfoPlistFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist
-s416714088.236005
-e416714088.245236
+s419730744.537676
+e419730744.546489
 r1
 xProcessInfoPlistFile
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist119"[1mProcessInfoPlistFile[0m build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0mae7e3c688dd6b841^86c73e688dd6b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Info.plist0000000000000000^827"[1mProcessInfoPlistFile[0m build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist -genpkginfo /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist36"B3ACBB48-7F3B-4A19-9167-FF23D4265021-
-bB97F2B5C-548D-4858-B73D-CED8521FB93B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist103"ProcessInfoPlistFile build/emulator/Campus\ Quest.app/Info.plist Campus\ Quest/Campus\ Quest-Info.plist54c489389504b941^0af28b389504b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Info.plist0000000000000000^811"ProcessInfoPlistFile build/emulator/Campus\ Quest.app/Info.plist Campus\ Quest/Campus\ Quest-Info.plist    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist -genpkginfo /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist36"4787DC2E-FA11-4C98-8326-220F4BB24292-
+b13B8A72C-563B-4831-B338-C08D926D8372
 
 CProcessInfoPlistFile /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist
-s419236856.095296
-e419236856.103568
+s419286626.520950
+e419286626.529140
 r1
 xProcessInfoPlistFile
 x/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist176"[1mProcessInfoPlistFile[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m577b18f80bfdb841^b2831af80bfdb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Info.plist0000000000000000^884"[1mProcessInfoPlistFile[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist -genpkginfo /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist36"D42C4FDE-E410-492E-92B8-F09642F32F31-
-bC9D7FE25-DD76-49DF-BB13-2F47E5F32446
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist176"[1mProcessInfoPlistFile[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0mac728562cefdb841^e6768762cefdb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Info.plist0000000000000000^884"[1mProcessInfoPlistFile[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist -genpkginfo /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist36"006924F1-867A-4C05-AA16-50951B118FCF-
+bFBE3D00F-6568-43E9-820D-911895269E04
 
 CProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alzwliacrkyszkbwikbbeayrkkus/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s416609336.486095
@@ -1872,6 +1876,21 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Prefix.pch
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Campus Quest/Campus Quest-Prefix.pch322"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alzwliacrkyszkbwikbbeayrkkus/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler978b7c38f4d4b841^7ee5b138f4d4b841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Prefix.pch0000000000000000^4018"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alzwliacrkyszkbwikbbeayrkkus/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator --serialize-diagnostics /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alzwliacrkyszkbwikbbeayrkkus/Campus\ Quest-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alzwliacrkyszkbwikbbeayrkkus/Campus\ Quest-Prefix.pch.d -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Prefix.pch -o /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.0.2-5A3005/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alzwliacrkyszkbwikbbeayrkkus/Campus\ Quest-Prefix.pch.pch36"105437DA-75F8-4B45-971A-FB045F1A8979-
 b634FAFFD-68B9-44DB-AC29-65B35394B2E2
+
+CProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419298793.978872
+e419298794.208392
+r1
+xProcessPCH
+x/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus Quest-Prefix.pch.pch
+xCampus Quest/Campus Quest-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Campus Quest/Campus Quest-Prefix.pch320"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler19aefae9fdfdb841^145b35eafdfdb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Prefix.pch0000000000000000^4010"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources/i386 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator --serialize-diagnostics /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch.d -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Prefix.pch -o /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-djcznddxxbaivocnhodcizjucysz/Campus\ Quest-Prefix.pch.pch36"E0F09915-4D89-40F1-9973-408B29931DE1-
+b3C4E0CAC-69CA-4471-B3C1-B5B203A1CB5F
 
 CProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-edpmtrolfppofrbsiqhnaravjwqd/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s419236665.119810
@@ -1889,20 +1908,20 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precomp
 bEAF854EE-2022-4F00-8727-DB018B1E88C7
 
 CTouch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app
-s416714088.472170
-e416714088.477007
+s419730744.788127
+e419730744.792630
 r1
 xTouch
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app46"[1mTouch[0m build/emulator/Campus\ Quest.app6ff578688dd6b841^711e7a688dd6b841^---0#0#1#--465"[1mTouch[0m build/emulator/Campus\ Quest.app    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app36"60EE2FE2-3FD4-41EF-82C3-87BDE20E9812-
-bB97F2B5C-548D-4858-B73D-CED8521FB93B
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app38"Touch build/emulator/Campus\ Quest.app25cfc9389504b941^dde9ca389504b941^---0#0#1#--457"Touch build/emulator/Campus\ Quest.app    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app36"3DFDAEA1-4AAF-49B8-939B-201E29F22048-
+b13B8A72C-563B-4831-B338-C08D926D8372
 
 CTouch /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app
-s419236856.387852
-e419236856.392454
+s419286626.849391
+e419286626.855308
 r1
 xTouch
 x/Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app103"[1mTouch[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app545663f80bfdb841^ff7764f80bfdb841^---0#0#1#--522"[1mTouch[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app36"F5992062-32FC-489D-AD32-D5A5368F815F-
-bC9D7FE25-DD76-49DF-BB13-2F47E5F32446
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app103"[1mTouch[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.appc47cd962cefdb841^a9f5da62cefdb841^---0#0#1#--522"[1mTouch[0m /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/scsowers/Documents/apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app36"202BAF1A-8229-431F-976E-5C5CAC5115E8-
+bFBE3D00F-6568-43E9-820D-911895269E04
 
