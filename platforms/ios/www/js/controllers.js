@@ -7,7 +7,7 @@ angular.module('CampusQuest.controllers', ['ionic'])
             var eventId = data.eventId;
             var achievements = data.eventGame.gameAchievements;
 
-            QuestApi.addTeamToEvent(teamName).success(function(data) {
+            QuestApi.addTeamToEvent(eventId,teamName).success(function(data) {
                 QuestSession.init(eventId, data.teamName, achievements, data.teamTeamAchievements);
                 $state.go('achievements');
             }).error(function(data) {

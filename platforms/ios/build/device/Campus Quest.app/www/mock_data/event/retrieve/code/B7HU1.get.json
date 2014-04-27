@@ -1,0 +1,42 @@
+{
+    "eventId": 1,
+    "eventCode": "B7HU1",
+    "eventName": "Event I",
+    "eventDescription": "Event I",
+    "eventStart": {
+        "date": "2014-01-22 00:00:00",
+        "timezone_type": 3,
+        "timezone": "America/Los_Angeles"
+    },
+    "eventLength": {
+        "date": "2014-04-12 23:00:00",
+        "timezone_type": 3,
+        "timezone": "America/Los_Angeles"
+    },
+    "eventGame": {
+        "gameId": 1,
+        "gameName": "test_game",
+        "gameDescription": "blah",
+        "gameLocation": "Cisco",
+        "gameAchievements": [
+            {
+                "achievementId": 1,
+                "achievementName": "Test Achievement",
+                "achievementDescription": "Blah",
+                "achievementIcon": null,
+                "achievementLatitude": null,
+                "achievementLongitude": null,
+                "achievementPoint": 10
+            },
+            {
+                "achievementId": 2,
+                "achievementName": "Giant Cisco Phone",
+                "achievementDescription": "make a phone call",
+                "achievementIcon": null,
+                "achievementLatitude": null,
+                "achievementLongitude": null,
+                "achievementPoint": 50
+            }
+        ]
+    }
+}

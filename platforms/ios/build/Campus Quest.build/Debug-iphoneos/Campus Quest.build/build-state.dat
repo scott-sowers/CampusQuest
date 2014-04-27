@@ -1,0 +1,1340 @@
+TCampus Quest
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Info.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/device/Campus\ Quest.app/ResourceRules.plist
+cPhaseScriptExecution Copy\ www\ directory /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-76.png Campus\ Quest/Resources/icons/icon-76.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-40@2x.png Campus\ Quest/Resources/icons/icon-40@2x.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-72.png Campus\ Quest/Resources/icons/icon-72.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon.png Campus\ Quest/Resources/icons/icon.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon@2x.png Campus\ Quest/Resources/icons/icon@2x.png
+cCopyStringsFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/en.lproj/Localizable.strings Campus\ Quest/Resources/en.lproj/Localizable.strings
+cCompileXIB /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.xib
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-50.png Campus\ Quest/Resources/icons/icon-50.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-60@2x.png Campus\ Quest/Resources/icons/icon-60@2x.png
+cCopyStringsFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/de.lproj/Localizable.strings Campus\ Quest/Resources/de.lproj/Localizable.strings
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-small.png Campus\ Quest/Resources/icons/icon-small.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Landscape@2x~ipad.png Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Landscape~ipad.png Campus\ Quest/Resources/splash/Default-Landscape~ipad.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Portrait@2x~ipad.png Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-small@2x.png Campus\ Quest/Resources/icons/icon-small@2x.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Portrait~ipad.png Campus\ Quest/Resources/splash/Default-Portrait~ipad.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-40.png Campus\ Quest/Resources/icons/icon-40.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default@2x~iphone.png Campus\ Quest/Resources/splash/Default@2x~iphone.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-60.png Campus\ Quest/Resources/icons/icon-60.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default~iphone.png Campus\ Quest/Resources/splash/Default~iphone.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-568h@2x~iphone.png Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-50@2x.png Campus\ Quest/Resources/icons/icon-50@2x.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-76@2x.png Campus\ Quest/Resources/icons/icon-76@2x.png
+cCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-72@2x.png Campus\ Quest/Resources/icons/icon-72@2x.png
+cProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/main.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/AppDelegate.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/MainViewController.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVDevice.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVCamera.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.camera/CDVCamera.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Campus\ Quest normal armv7
+cGenerateDSYMFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app.dSYM /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Campus\ Quest
+cProcessProductPackaging /Users/scsowers/Library/MobileDevice/Provisioning\ Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/embedded.mobileprovision
+cTouch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest.xcent
+cCodeSign /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c00000000534D6FFC0000000000000132
+t1397583868
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+c00000000532F34990000000000000094
+t1395602585
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+c00000000532F34990000000000000096
+t1395602585
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c00000000532F3499000000000000036B
+t1395602585
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000532F349A000000000000019E
+t1395602586
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000532F349C0000000000632990
+t1395602588
+s6498704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+c00000000532F349C00000000000D6100
+t1395602588
+s876800
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000532F349B0000000000075BA0
+t1395602587
+s482208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000532F349C000000000079C660
+t1395602588
+s7980640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534D6FE800000000004D7BC0
+t1397583848
+s5077952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c00000000532F349D0000000000152370
+t1395602589
+s1385328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c00000000532F349D00000000002CB700
+t1395602589
+s2930432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000532F349E0000000000A90C10
+t1395602590
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000532F349F0000000000836810
+t1395602591
+s8611856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c00000000532F34A00000000000210E90
+t1395602592
+s2166416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000532F34A60000000002759920
+t1395602598
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c00000000532F34AA0000000000385D50
+t1395602602
+s3693904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/crt1.3.1.o
+c00000000532F34AD00000000000142B0
+t1395602605
+s82608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+c00000000532F34AE000000000001E300
+t1395602606
+s123648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+c00000000532F34AE000000000055EFE0
+t1395602606
+s5631968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+c00000000532F34AE000000000002A880
+t1395602606
+s174208
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000532F34AE00000000000458C0
+t1395602606
+s284864
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000532F34AE000000000003E3E0
+t1395602606
+s254944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+c00000000532F34AE000000000002B130
+t1395602606
+s176432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000532F34AF00000000000E1FD0
+t1395602607
+s925648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+c00000000532F34AF00000000000A2A70
+t1395602607
+s666224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+c00000000532F34AE000000000001E8A0
+t1395602606
+s125088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+c00000000532F34AE000000000000BF00
+t1395602606
+s48896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+c00000000532F34AF0000000000034380
+t1395602607
+s213888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+c00000000532F34AF0000000000022F30
+t1395602607
+s143152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+c00000000532F34AF000000000001E2A0
+t1395602607
+s123552
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000532F34AF0000000000052520
+t1395602607
+s337184
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000532F34AF0000000000015F20
+t1395602607
+s89888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+c00000000532F34AF00000000001B90D0
+t1395602607
+s1806544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000532F34AF000000000001F170
+t1395602607
+s127344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000532F34AF000000000002FCF0
+t1395602607
+s195824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+c00000000532F34AF000000000008A150
+t1395602607
+s565584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000532F34AF00000000000B60E0
+t1395602607
+s745696
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+c00000000532F34AF0000000000078720
+t1395602607
+s493344
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000532F34AF00000000000621F0
+t1395602607
+s401904
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+c00000000532F34AF00000000000BDAE0
+t1395602607
+s776928
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000532F34AF0000000000039080
+t1395602607
+s233600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000532F34AF000000000003CBC0
+t1395602607
+s248768
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000532F34AF000000000002CFE0
+t1395602607
+s184288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000532F34AF000000000001EB50
+t1395602607
+s125776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+c00000000532F34AF000000000001EED0
+t1395602607
+s126672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+c00000000532F34AF00000000000236B0
+t1395602607
+s145072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+c00000000532F34AF00000000000AC500
+t1395602607
+s705792
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+c00000000532F34F100000000000159DC
+t1395602673
+s88540
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c00000000534D6FE8000000000000514C
+t1397583848
+s20812
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist
+c00000000535C13FE0000000000000A15
+t1398543358
+s2581
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Prefix.pch
+c000000005324BCA600000000000003C9
+t1394916518
+s969
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.h
+c000000005324BCA600000000000005BD
+t1394916518
+s1469
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.m
+c000000005324BCA600000000000013AF
+t1394916518
+s5039
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.h
+c000000005324BCA600000000000004D2
+t1394916518
+s1234
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.m
+c000000005324BCA6000000000000126D
+t1394916518
+s4717
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.xib
+c000000005324BCA60000000000001759
+t1394916518
+s5977
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVCamera.h
+c0000000053546F660000000000000F7C
+t1398042470
+s3964
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVCamera.m
+c0000000053546F660000000000007B75
+t1398042470
+s31605
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVExif.h
+c0000000053546F660000000000000666
+t1398042470
+s1638
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.h
+c0000000053546F660000000000000AE3
+t1398042470
+s2787
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m
+c0000000053546F66000000000000672A
+t1398042470
+s26410
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.h
+c000000005324BE6000000000000003BD
+t1394916960
+s957
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.m
+c000000005324BE600000000000000C22
+t1394916960
+s3106
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/de.lproj/Localizable.strings
+c000000005324BCA600000000000004C0
+t1394916518
+s1216
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/en.lproj/Localizable.strings
+c000000005324BCA600000000000004AB
+t1394916518
+s1195
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-40.png
+c000000005324BCA60000000000000FF2
+t1394916518
+s4082
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-40@2x.png
+c000000005324BCA60000000000001CF3
+t1394916518
+s7411
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-50.png
+c000000005324BCA6000000000000130A
+t1394916518
+s4874
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-50@2x.png
+c000000005324BCA6000000000000258B
+t1394916518
+s9611
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-60.png
+c000000005324BCA600000000000016B3
+t1394916518
+s5811
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-60@2x.png
+c000000005324BCA60000000000002E94
+t1394916518
+s11924
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-72.png
+c000000005324BCA60000000000001350
+t1394916518
+s4944
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-72@2x.png
+c000000005324BCA60000000000002DBA
+t1394916518
+s11706
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-76.png
+c000000005324BCA60000000000001B71
+t1394916518
+s7025
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-76@2x.png
+c000000005324BCA60000000000003B9E
+t1394916518
+s15262
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-small.png
+c000000005324BCA60000000000000CDE
+t1394916518
+s3294
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon-small@2x.png
+c000000005324BCA600000000000015E8
+t1394916518
+s5608
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon.png
+c000000005324BCA60000000000000F3E
+t1394916518
+s3902
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/icons/icon@2x.png
+c000000005324BCA60000000000001EBD
+t1394916518
+s7869
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/splash/Default-568h@2x~iphone.png
+c000000005324BCA600000000000085B1
+t1394916518
+s34225
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/splash/Default-Landscape@2x~ipad.png
+c000000005324BCA60000000000033D0A
+t1394916518
+s212234
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/splash/Default-Landscape~ipad.png
+c000000005324BCA600000000000166A2
+t1394916518
+s91810
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/splash/Default-Portrait@2x~ipad.png
+c000000005324BCA60000000000033F7C
+t1394916518
+s212860
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/splash/Default-Portrait~ipad.png
+c000000005324BCA60000000000016641
+t1394916518
+s91713
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/splash/Default@2x~iphone.png
+c000000005324BCA60000000000007323
+t1394916518
+s29475
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Resources/splash/Default~iphone.png
+c000000005324BCA6000000000000289A
+t1394916518
+s10394
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/main.m
+c000000005324BCA6000000000000045E
+t1394916518
+s1118
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Campus Quest.xcent
+t1398543359
+s424
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/AppDelegate.o
+t1398471923
+s74496
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVCamera.o
+t1398471923
+s156576
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVDevice.o
+t1398471923
+s50736
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o
+t1398471923
+s66480
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/Campus Quest.LinkFileList
+c00000000535AFCF2000000000000038E
+t1398471922
+s910
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/MainViewController.o
+t1398471923
+s50644
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/main.o
+t1398471923
+s3080
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Script-304B58A110DAC018002A0835.sh
+c00000000534DCEEF000000000000002D
+t1397608175
+s45
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app
+t1398543359
+s1088
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app.dSYM
+t1398542947
+s102
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Campus Quest
+t1398542958
+s363088
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-568h@2x~iphone.png
+t1397608176
+s61990
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Landscape@2x~ipad.png
+t1397608176
+s161722
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Landscape~ipad.png
+t1397608176
+s76512
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Portrait@2x~ipad.png
+t1397608176
+s154923
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Portrait~ipad.png
+t1397608176
+s74890
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default@2x~iphone.png
+t1397608176
+s55319
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default~iphone.png
+t1397608176
+s20021
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Info.plist
+t1398543358
+s1573
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/MainViewController.nib
+t1397608178
+s1332
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/PkgInfo
+t2
+s0
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/ResourceRules.plist
+t1397608175
+s150
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/de.lproj/Localizable.strings
+t1397608176
+s280
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/embedded.mobileprovision
+t1398543359
+s7431
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/en.lproj/Localizable.strings
+t1397608175
+s166
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-40.png
+t1397608176
+s4450
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-40@2x.png
+t1397608175
+s8883
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-50.png
+t1397608176
+s5557
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-50@2x.png
+t1397608176
+s11331
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-60.png
+t1397608176
+s6838
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-60@2x.png
+t1397608176
+s14152
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-72.png
+t1397608175
+s8045
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-72@2x.png
+t1397608176
+s17926
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-76.png
+t1397608175
+s8463
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-76@2x.png
+t1397608176
+s16629
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-small.png
+t1397608176
+s3349
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-small@2x.png
+t1397608176
+s6585
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon.png
+t1397608175
+s5977
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon@2x.png
+t1397608176
+s13012
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDV.h
+c00000000534CD5100000000000000516
+t1397544208
+s1302
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+c00000000534CD5100000000000000CDD
+t1397544208
+s3293
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+c00000000534CD51000000000000008BA
+t1397544208
+s2234
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+c00000000534CD51000000000000004B5
+t1397544208
+s1205
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+c00000000534CD5100000000000000503
+t1397544208
+s1283
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVDebug.h
+c00000000534CD5100000000000000401
+t1397544208
+s1025
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+c00000000534CD51000000000000007E6
+t1397544208
+s2022
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVJSON.h
+c00000000534CD51000000000000003DA
+t1397544208
+s986
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+c00000000534CD51000000000000006CF
+t1397544208
+s1743
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+c00000000534CD5100000000000000892
+t1397544208
+s2194
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+c00000000534CD5100000000000000C13
+t1397544208
+s3091
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+c00000000534CD5100000000000000408
+t1397544208
+s1032
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVTimer.h
+c00000000534CD510000000000000038D
+t1397544208
+s909
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+c00000000534CD510000000000000041C
+t1397544208
+s1052
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVViewController.h
+c00000000534CD5100000000000000ACC
+t1397544208
+s2764
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+c00000000534CD51000000000000004B4
+t1397544208
+s1204
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+c00000000534CD5100000000000000392
+t1397544208
+s914
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+c00000000534CD510000000000000037D
+t1397544208
+s893
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+c00000000534CD51000000000000005DA
+t1397544208
+s1498
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+c00000000534CD51000000000000003A0
+t1397544208
+s928
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+c00000000534CD5100000000000000476
+t1397544208
+s1142
+
+N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/libCordova.a
+c00000000535AFCF200000000001B44B0
+t1398471922
+s1787056
+
+N/Users/scsowers/Library/MobileDevice/Provisioning Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision
+c00000000534DC95C0000000000001D07
+t1397606748
+s7431
+
+N/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus Quest-Prefix.pch.pch
+t1397608179
+s5307160
+
+N/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus Quest-Prefix.pch.pch
+t1398471923
+s5307164
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesd784ec7e4b0cb941^13b5ec7e4b0cb941^---0#1#1#--18"Check dependencies36"B4C400D5-867C-4B72-B0E1-182044E4F645-
+
+CCodeSign /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app
+s420236159.310398
+e420236161.798601
+r1
+xCodeSign
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app
+o/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app: replacing existing signature
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"[1mCodeSign[0m [1mbuild/device/Campus\ Quest.app[0m55"[1mCodeSign[0m [1mbuild/device/Campus\ Quest.app[0m0c914f7f4b0cb941^8d7ecc814b0cb941^-117"/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app: replacing existing signature-0#0#1#-19%DVTDocumentLocation2@96"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus%20Quest.app/0000000000000000^1110"[1mCodeSign[0m [1mbuild/device/Campus\ Quest.app[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    Using code signing identity "iPhone Developer: Scott Sowers (UJ7XVBWLQB)" and provisioning profile "iOS Team Provisioning Profile: *" (A42A5402-5DE1-4C4B-A29B-2200BB5DF815)    /usr/bin/codesign --force --sign F16CC391B18F484FA24C654618C966D3CE024CCA --resource-rules=/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/ResourceRules.plist --entitlements /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest.xcent /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app36"BA32E130-0FC5-4AE9-A9BB-6FB934362D9D-
+b86FA5696-67E3-4143-BFAE-723AA97BFA7C
+
+CCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/AppDelegate.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420164723.100099
+e420164723.231273
+r1
+xCompileC
+xbuild/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/AppDelegate.o
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.m
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/AppDelegate.m225"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/AppDelegate.o [1mCampus\ Quest/Classes/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb8c81973340bb941^f8343b73340bb941^---0#0#1#-19%DVTDocumentLocation2@100"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Classes/AppDelegate.m0000000000000000^3841"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/AppDelegate.o [1mCampus\ Quest/Classes/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/AppDelegate.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/AppDelegate.o36"464CD0FC-8408-4D30-AC11-1E96D2E13654-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVCamera.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.camera/CDVCamera.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420164723.144923
+e420164723.316898
+r1
+xCompileC
+xbuild/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVCamera.o
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVCamera.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVCamera.m
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVCamera.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVCamera.m247"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVCamera.o [1mCampus\ Quest/Plugins/org.apache.cordova.camera/CDVCamera.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere23b2573340bb941^14215173340bb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Plugins/org.apache.cordova.camera/CDVCamera.m0000000000000000^3881"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVCamera.o [1mCampus\ Quest/Plugins/org.apache.cordova.camera/CDVCamera.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVCamera.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVCamera.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.camera/CDVCamera.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVCamera.o36"8D9E886A-F180-466E-85A8-BD513652C1E1-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVDevice.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420164723.102009
+e420164723.208252
+r1
+xCompileC
+xbuild/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVDevice.o
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.m
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDV.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVDebug.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVTimer.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSData+Base64.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVJSON.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.device/CDVDevice.m247"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVDevice.o [1mCampus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilere63d1a73340bb941^7e6e3873340bb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Plugins/org.apache.cordova.device/CDVDevice.m0000000000000000^3881"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVDevice.o [1mCampus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVDevice.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVDevice.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVDevice.o36"6FC61B5A-25B5-4762-92A7-D1CB973B6F71-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420164723.197003
+e420164723.286510
+r1
+xCompileC
+xbuild/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVExif.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m267"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o [1mCampus\ Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2a8b3273340bb941^53584973340bb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m0000000000000000^3941"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o [1mCampus\ Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.camera/CDVJpegHeaderWriter.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o36"81702A8A-9D0B-4A8A-9C80-DA45CEDF24CF-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/MainViewController.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420164723.100366
+e420164723.196659
+r1
+xCompileC
+xbuild/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/MainViewController.o
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.m
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVViewController.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVAvailability.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVWhitelist.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPlugin.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPluginResult.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegateImpl.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.m239"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/MainViewController.o [1mCampus\ Quest/Classes/MainViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerf6d11973340bb941^40693873340bb941^---0#0#1#-19%DVTDocumentLocation2@107"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Classes/MainViewController.m0000000000000000^3883"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/MainViewController.o [1mCampus\ Quest/Classes/MainViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/MainViewController.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/MainViewController.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/MainViewController.o36"2EEB2F60-BB5D-466D-ABB3-E8B64D07A4C4-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CCompileC build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/main.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420164723.099626
+e420164723.144457
+r1
+xCompileC
+xbuild/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/main.o
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/main.m203"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/main.o [1mCampus\ Quest/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler4e971973340bb941^fef32473340bb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/main.m0000000000000000^3783"[1mCompileC[0m build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/main.o [1mCampus\ Quest/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -include /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch -MMD -MT dependencies -MF /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/main.dia -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/main.m -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/main.o36"E23177E2-00D2-4D02-AF13-0106F0B8634A-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CCompileXIB /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.xib
+s419300975.968791
+e419300978.836965
+r1
+xCompileXIB
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.xib
+o2014-04-15 17:29:38.362 Interface Builder Cocoa Touch Tool[1624:303] CFPreferences: user home directory at file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compiling /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Classes/MainViewController.xib71"[1mCompileXIB[0m [1mCampus\ Quest/Classes/MainViewController.xib[0mad16f86f06feb841^8943d67206feb841^-232"2014-04-15 17:29:38.362 Interface Builder Cocoa Touch Tool[1624:303] CFPreferences: user home directory at file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@109"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Classes/MainViewController.xib0000000000000000^844"[1mCompileXIB[0m [1mCampus\ Quest/Classes/MainViewController.xib[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 5.0 --output-format human-readable-text --compile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/MainViewController.nib /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/MainViewController.xib36"F812B8D0-03C3-4F66-B71C-DC07F18EF6EC-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-568h@2x~iphone.png Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png
+s419300976.550269
+e419300976.675746
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-568h@2x~iphone.png
+xCampus Quest/Resources/splash/Default-568h@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-568h@2x~iphone.png Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png135"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-568h@2x~iphone.png Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png4ef18c7006feb841^c504ad7006feb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/splash/Default-568h@2x~iphone.png0000000000000000^776"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-568h@2x~iphone.png Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/splash/Default-568h@2x~iphone.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-568h@2x~iphone.png36"D8AF9655-3A64-40AD-9FE7-8DBD211AEC92-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Landscape@2x~ipad.png Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png
+s419300976.019513
+e419300976.511664
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Landscape@2x~ipad.png
+xCampus Quest/Resources/splash/Default-Landscape@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Landscape@2x~ipad.png Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png141"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Landscape@2x~ipad.png Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png9413057006feb841^65fd827006feb841^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/splash/Default-Landscape@2x~ipad.png0000000000000000^788"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Landscape@2x~ipad.png Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/splash/Default-Landscape@2x~ipad.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Landscape@2x~ipad.png36"C096819E-CB0B-454A-AA22-74DA5E13E5C9-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Landscape~ipad.png Campus\ Quest/Resources/splash/Default-Landscape~ipad.png
+s419300976.022447
+e419300976.184888
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Landscape~ipad.png
+xCampus Quest/Resources/splash/Default-Landscape~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Landscape~ipad.png Campus\ Quest/Resources/splash/Default-Landscape~ipad.png135"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Landscape~ipad.png Campus\ Quest/Resources/splash/Default-Landscape~ipad.pngaad3057006feb841^bb612f7006feb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/splash/Default-Landscape~ipad.png0000000000000000^776"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Landscape~ipad.png Campus\ Quest/Resources/splash/Default-Landscape~ipad.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/splash/Default-Landscape~ipad.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Landscape~ipad.png36"762039CA-7DDD-4B9D-8EC0-2726FB6366FF-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Portrait@2x~ipad.png Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png
+s419300976.055498
+e419300976.522493
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Portrait@2x~ipad.png
+xCampus Quest/Resources/splash/Default-Portrait@2x~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Portrait@2x~ipad.png Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png139"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Portrait@2x~ipad.png Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png80490e7006feb841^3605867006feb841^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/splash/Default-Portrait@2x~ipad.png0000000000000000^784"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Portrait@2x~ipad.png Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/splash/Default-Portrait@2x~ipad.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Portrait@2x~ipad.png36"85EDFC76-D7ED-4B94-AD89-DBB2E85551B7-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Portrait~ipad.png Campus\ Quest/Resources/splash/Default-Portrait~ipad.png
+s419300976.224796
+e419300976.384233
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default-Portrait~ipad.png
+xCampus Quest/Resources/splash/Default-Portrait~ipad.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Portrait~ipad.png Campus\ Quest/Resources/splash/Default-Portrait~ipad.png133"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Portrait~ipad.png Campus\ Quest/Resources/splash/Default-Portrait~ipad.png0a9f397006feb841^056d627006feb841^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/splash/Default-Portrait~ipad.png0000000000000000^772"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default-Portrait~ipad.png Campus\ Quest/Resources/splash/Default-Portrait~ipad.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/splash/Default-Portrait~ipad.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default-Portrait~ipad.png36"EB105DAC-7BC6-4CFE-A330-366DEC5A1065-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default@2x~iphone.png Campus\ Quest/Resources/splash/Default@2x~iphone.png
+s419300976.426908
+e419300976.550049
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default@2x~iphone.png
+xCampus Quest/Resources/splash/Default@2x~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default@2x~iphone.png Campus\ Quest/Resources/splash/Default@2x~iphone.png125"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default@2x~iphone.png Campus\ Quest/Resources/splash/Default@2x~iphone.png5b5e6d7006feb841^45d88c7006feb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/splash/Default@2x~iphone.png0000000000000000^756"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default@2x~iphone.png Campus\ Quest/Resources/splash/Default@2x~iphone.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/splash/Default@2x~iphone.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default@2x~iphone.png36"EFC46FCB-ED9F-4FDE-A7DE-29972C25DF85-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default~iphone.png Campus\ Quest/Resources/splash/Default~iphone.png
+s419300976.522648
+e419300976.584169
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Default~iphone.png
+xCampus Quest/Resources/splash/Default~iphone.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default~iphone.png Campus\ Quest/Resources/splash/Default~iphone.png119"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default~iphone.png Campus\ Quest/Resources/splash/Default~iphone.png3e22867006feb841^e3dd957006feb841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/splash/Default~iphone.png0000000000000000^744"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/Default~iphone.png Campus\ Quest/Resources/splash/Default~iphone.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/splash/Default~iphone.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Default~iphone.png36"76A84620-13E3-4C67-9F57-0FC4E55FDE3F-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-40.png Campus\ Quest/Resources/icons/icon-40.png
+s419300976.384479
+e419300976.425714
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-40.png
+xCampus Quest/Resources/icons/icon-40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-40.png Campus\ Quest/Resources/icons/icon-40.png104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-40.png Campus\ Quest/Resources/icons/icon-40.png0dc4627006feb841^2e006d7006feb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-40.png0000000000000000^714"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-40.png Campus\ Quest/Resources/icons/icon-40.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-40.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-40.png36"3B4C7E05-6F79-46DB-A45E-AE87B079AFA4-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-40@2x.png Campus\ Quest/Resources/icons/icon-40@2x.png
+s419300975.822174
+e419300975.973950
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-40@2x.png
+xCampus Quest/Resources/icons/icon-40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-40@2x.png Campus\ Quest/Resources/icons/icon-40@2x.png110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-40@2x.png Campus\ Quest/Resources/icons/icon-40@2x.png548dd26f06feb841^e256f96f06feb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-40@2x.png0000000000000000^726"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-40@2x.png Campus\ Quest/Resources/icons/icon-40@2x.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-40@2x.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-40@2x.png36"37D51920-5C15-40AD-BD98-1C93838F8C97-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-50.png Campus\ Quest/Resources/icons/icon-50.png
+s419300975.974319
+e419300976.013803
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-50.png
+xCampus Quest/Resources/icons/icon-50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-50.png Campus\ Quest/Resources/icons/icon-50.png104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-50.png Campus\ Quest/Resources/icons/icon-50.png3db6f96f06feb841^f695037006feb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-50.png0000000000000000^714"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-50.png Campus\ Quest/Resources/icons/icon-50.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-50.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-50.png36"49CCB332-E517-4305-996E-BC161DF3D1DD-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-50@2x.png Campus\ Quest/Resources/icons/icon-50@2x.png
+s419300976.552691
+e419300976.597713
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-50@2x.png
+xCampus Quest/Resources/icons/icon-50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-50@2x.png Campus\ Quest/Resources/icons/icon-50@2x.png110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-50@2x.png Campus\ Quest/Resources/icons/icon-50@2x.png58918d7006feb841^4b56997006feb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-50@2x.png0000000000000000^726"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-50@2x.png Campus\ Quest/Resources/icons/icon-50@2x.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-50@2x.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-50@2x.png36"81C5D1F7-C52C-4F63-81D1-5D08FC3C14E8-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-60.png Campus\ Quest/Resources/icons/icon-60.png
+s419300976.512854
+e419300976.552484
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-60.png
+xCampus Quest/Resources/icons/icon-60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-60.png Campus\ Quest/Resources/icons/icon-60.png104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-60.png Campus\ Quest/Resources/icons/icon-60.png8e5c837006feb841^f8a68d7006feb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-60.png0000000000000000^714"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-60.png Campus\ Quest/Resources/icons/icon-60.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-60.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-60.png36"7B842F98-89A3-4506-B178-60AB36A953EB-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-60@2x.png Campus\ Quest/Resources/icons/icon-60@2x.png
+s419300975.974980
+e419300976.022235
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-60@2x.png
+xCampus Quest/Resources/icons/icon-60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-60@2x.png Campus\ Quest/Resources/icons/icon-60@2x.png110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-60@2x.png Campus\ Quest/Resources/icons/icon-60@2x.pngb7d4f96f06feb841^9dda057006feb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-60@2x.png0000000000000000^726"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-60@2x.png Campus\ Quest/Resources/icons/icon-60@2x.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-60@2x.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-60@2x.png36"FFFF09AC-D412-4A82-AE0B-51D278D76AC9-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-72.png Campus\ Quest/Resources/icons/icon-72.png
+s419300975.822383
+e419300975.966390
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-72.png
+xCampus Quest/Resources/icons/icon-72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-72.png Campus\ Quest/Resources/icons/icon-72.png104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-72.png Campus\ Quest/Resources/icons/icon-72.png349cd26f06feb841^2175f76f06feb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-72.png0000000000000000^714"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-72.png Campus\ Quest/Resources/icons/icon-72.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-72.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-72.png36"7C2F48A6-886E-4F63-8562-39C8855D8A8A-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-72@2x.png Campus\ Quest/Resources/icons/icon-72@2x.png
+s419300976.597938
+e419300976.641408
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-72@2x.png
+xCampus Quest/Resources/icons/icon-72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-72@2x.png Campus\ Quest/Resources/icons/icon-72@2x.png110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-72@2x.png Campus\ Quest/Resources/icons/icon-72@2x.png3126997006feb841^3f3ba47006feb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-72@2x.png0000000000000000^726"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-72@2x.png Campus\ Quest/Resources/icons/icon-72@2x.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-72@2x.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-72@2x.png36"B9E0D6BD-AE85-42BF-B86F-C2A924624EA9-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-76.png Campus\ Quest/Resources/icons/icon-76.png
+s419300975.822022
+e419300975.968461
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-76.png
+xCampus Quest/Resources/icons/icon-76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-76.png Campus\ Quest/Resources/icons/icon-76.png104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-76.png Campus\ Quest/Resources/icons/icon-76.pngd47fd26f06feb841^6001f86f06feb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-76.png0000000000000000^714"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-76.png Campus\ Quest/Resources/icons/icon-76.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-76.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-76.png36"A907D393-D0A1-4F61-924E-4917E6AD0FB8-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-76@2x.png Campus\ Quest/Resources/icons/icon-76@2x.png
+s419300976.584406
+e419300976.635088
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-76@2x.png
+xCampus Quest/Resources/icons/icon-76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-76@2x.png Campus\ Quest/Resources/icons/icon-76@2x.png110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-76@2x.png Campus\ Quest/Resources/icons/icon-76@2x.pngcbf6957006feb841^6c97a27006feb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-76@2x.png0000000000000000^726"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-76@2x.png Campus\ Quest/Resources/icons/icon-76@2x.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-76@2x.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-76@2x.png36"3C796D57-9803-4079-B9F6-96769B9007F6-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-small.png Campus\ Quest/Resources/icons/icon-small.png
+s419300976.015710
+e419300976.055252
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-small.png
+xCampus Quest/Resources/icons/icon-small.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-small.png Campus\ Quest/Resources/icons/icon-small.png110"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-small.png Campus\ Quest/Resources/icons/icon-small.pngf818047006feb841^40310e7006feb841^---0#0#1#-19%DVTDocumentLocation2@109"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-small.png0000000000000000^726"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-small.png Campus\ Quest/Resources/icons/icon-small.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-small.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-small.png36"C1415791-5783-44E7-90C5-BE9F00F010FD-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-small@2x.png Campus\ Quest/Resources/icons/icon-small@2x.png
+s419300976.185180
+e419300976.224530
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon-small@2x.png
+xCampus Quest/Resources/icons/icon-small@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-small@2x.png Campus\ Quest/Resources/icons/icon-small@2x.png116"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-small@2x.png Campus\ Quest/Resources/icons/icon-small@2x.png707a2f7006feb841^acc7397006feb841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon-small@2x.png0000000000000000^738"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon-small@2x.png Campus\ Quest/Resources/icons/icon-small@2x.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon-small@2x.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon-small@2x.png36"4E8502F0-8DAF-4E49-ACCC-50740482F456-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon.png Campus\ Quest/Resources/icons/icon.png
+s419300975.822859
+e419300975.965232
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon.png
+xCampus Quest/Resources/icons/icon.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon.png Campus\ Quest/Resources/icons/icon.png98"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon.png Campus\ Quest/Resources/icons/icon.png98bfd26f06feb841^8121f76f06feb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon.png0000000000000000^702"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon.png Campus\ Quest/Resources/icons/icon.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon.png36"DE2D59D5-CEAD-4807-A392-EBA5CC1F0A3E-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyPNGFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon@2x.png Campus\ Quest/Resources/icons/icon@2x.png
+s419300975.965465
+e419300976.011726
+r1
+xCopyPNGFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/icon@2x.png
+xCampus Quest/Resources/icons/icon@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon@2x.png Campus\ Quest/Resources/icons/icon@2x.png104"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon@2x.png Campus\ Quest/Resources/icons/icon@2x.png103bf76f06feb841^8908037006feb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/icons/icon@2x.png0000000000000000^714"[1mCopyPNGFile[0m build/device/Campus\ Quest.app/icon@2x.png Campus\ Quest/Resources/icons/icon@2x.png    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Resources/icons/icon@2x.png /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/icon@2x.png36"E52A7AB3-E6C0-4199-A41A-EDF6CB92676A-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyStringsFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/de.lproj/Localizable.strings Campus\ Quest/Resources/de.lproj/Localizable.strings
+s419300976.011924
+e419300976.019318
+r1
+xCopyStringsFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/de.lproj/Localizable.strings
+xCampus Quest/Resources/de.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy Campus Quest/Resources/de.lproj/Localizable.strings136"[1mCopyStringsFile[0m build/device/Campus\ Quest.app/de.lproj/Localizable.strings Campus\ Quest/Resources/de.lproj/Localizable.strings4f21037006feb841^e109057006feb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/de.lproj/Localizable.strings0000000000000000^679"[1mCopyStringsFile[0m build/device/Campus\ Quest.app/de.lproj/Localizable.strings Campus\ Quest/Resources/de.lproj/Localizable.strings    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/de.lproj -- Campus\ Quest/Resources/de.lproj/Localizable.strings36"946808F7-BB0A-40E1-AA1E-C80296A055A5-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCopyStringsFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/en.lproj/Localizable.strings Campus\ Quest/Resources/en.lproj/Localizable.strings
+s419300975.966555
+e419300975.973924
+r1
+xCopyStringsFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/en.lproj/Localizable.strings
+xCampus Quest/Resources/en.lproj/Localizable.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy Campus Quest/Resources/en.lproj/Localizable.strings136"[1mCopyStringsFile[0m build/device/Campus\ Quest.app/en.lproj/Localizable.strings Campus\ Quest/Resources/en.lproj/Localizable.strings7385f76f06feb841^6283f96f06feb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Resources/en.lproj/Localizable.strings0000000000000000^679"[1mCopyStringsFile[0m build/device/Campus\ Quest.app/en.lproj/Localizable.strings Campus\ Quest/Resources/en.lproj/Localizable.strings    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/en.lproj -- Campus\ Quest/Resources/en.lproj/Localizable.strings36"32044F5C-1710-4F5F-ADFA-C4D9F8ABFE23-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/device/Campus\ Quest.app/ResourceRules.plist
+s419300975.655701
+e419300975.660076
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist
+xbuild/device/Campus Quest.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Copy build/device/Campus Quest.app/ResourceRules.plist191"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/device/Campus\ Quest.app/ResourceRules.plist6bf3a76f06feb841^44fba86f06feb841^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus%20Quest.app/ResourceRules.plist0034f087dcffdf42^813"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist build/device/Campus\ Quest.app/ResourceRules.plist    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/ResourceRules.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app36"934CEDD4-F072-43A0-A2A3-FC0AE3FA7194-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CGenerateDSYMFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app.dSYM /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Campus\ Quest
+s420236159.227210
+e420236159.272606
+r1
+xGenerateDSYMFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app.dSYM
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Campus Quest
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Generate /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app.dSYM113"[1mGenerateDSYMFile[0m [1mbuild/device/Campus\ Quest.app.dSYM[0m build/device/Campus\ Quest.app/Campus\ Questa0363a7f4b0cb941^44a54d7f4b0cb941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus%20Quest.app.dSYM/0000000000000000^711"[1mGenerateDSYMFile[0m [1mbuild/device/Campus\ Quest.app.dSYM[0m build/device/Campus\ Quest.app/Campus\ Quest    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Campus\ Quest -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app.dSYM36"12A19F17-20C2-4533-80AA-25845F830CB7-
+b86FA5696-67E3-4143-BFAE-723AA97BFA7C
+
+CLd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Campus\ Quest normal armv7
+s420164723.326397
+e420164723.482098
+r1
+xLd
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Campus Quest
+xnormal
+xarmv7
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/Campus Quest.LinkFileList
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/libCordova.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/crt1.3.1.o
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/main.o
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/AppDelegate.o
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/MainViewController.o
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVDevice.o
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVCamera.o
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Objects-normal/armv7/CDVJpegHeaderWriter.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/arc/libarclite_iphoneos.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Campus Quest68"[1mLd[0m build/device/Campus\ Quest.app/Campus\ Quest normal armv723a35373340bb941^d36b7b73340bb941^---0#0#1#--1767"[1mLd[0m build/device/Campus\ Quest.app/Campus\ Quest normal armv7    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export IPHONEOS_DEPLOYMENT_TARGET=5.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -filelist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/Campus\ Quest.LinkFileList -dead_strip -weak_framework CoreFoundation -weak_framework UIKit -weak_framework AVFoundation -weak_framework CoreMedia -weak-lSystem -force_load /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/libCordova.a -ObjC -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=5.0 -framework AssetsLibrary /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/libCordova.a -framework CoreGraphics -framework MobileCoreServices -framework CoreLocation -weak_framework ImageIO -Xlinker -dependency_info -Xlinker /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Objects-normal/armv7/Campus\ Quest_dependency_info.dat -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Campus\ Quest36"DF13FA2D-3793-4982-A97E-EF25DDBD0D5E-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CPhaseScriptExecution Copy\ www\ directory /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh
+s420236158.934573
+e420236159.222012
+r1
+xPhaseScriptExecution
+xCopy www directory
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Script-304B58A110DAC018002A0835.sh
+o
+oreal	0m0.262s
+ouser	0m0.081s
+osys	0m0.173s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'145"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh4d86ef7e4b0cb941^bceb387f4b0cb941^-42"real	0m0.262suser	0m0.081ssys	0m0.173s3(21%IDEActivityLogMessage2@14"real	0m0.262s-420236159#1#14#-0#-----2@14"user	0m0.081s-420236159#15#14#-0#-----2@13"sys	0m0.173s-420236159#29#13#-0#-----0#0#1#--382"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    /bin/sh -c \"/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh\"36"8382A2D1-7250-47E5-B639-D1042EA6A7E4-
+b86FA5696-67E3-4143-BFAE-723AA97BFA7C
+
+CProcessInfoPlistFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Info.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist
+s420236158.925310
+e420236158.933249
+r1
+xProcessInfoPlistFile
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/Info.plist
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist117"[1mProcessInfoPlistFile[0m build/device/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m7bf6ec7e4b0cb941^eee9ee7e4b0cb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Info.plist0000000000000000^934"[1mProcessInfoPlistFile[0m build/device/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist -genpkginfo /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/ResourceRules.plist -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/Info.plist36"7AA0E9D9-0E6D-4DB5-BA7D-80CAF8A07D9C-
+b86FA5696-67E3-4143-BFAE-723AA97BFA7C
+
+CProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419300978.838093
+e419300979.045863
+r1
+xProcessPCH
+x/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus Quest-Prefix.pch.pch
+xCampus Quest/Campus Quest-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Campus Quest/Campus Quest-Prefix.pch321"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler499fd67206feb841^83bf0b7306feb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Prefix.pch0000000000000000^3867"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device --serialize-diagnostics /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus\ Quest-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus\ Quest-Prefix.pch.d -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Prefix.pch -o /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1-5B130a/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-alommxrjvddxincaojfiomuigsuj/Campus\ Quest-Prefix.pch.pch36"406FF82D-9214-4971-879F-8B8434A5EA83-
+b6689A249-4DB3-43CE-A5D8-B6C95542503A
+
+CProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s420164722.856827
+e420164723.098769
+r1
+xProcessPCH
+x/var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus Quest-Prefix.pch.pch
+xCampus Quest/Campus Quest-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Campus Quest/Campus Quest-Prefix.pch323"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compilerb16bdb72340bb941^0a4a1973340bb941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Prefix.pch0000000000000000^3875"[1mProcessPCH[0m /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=5.0 -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-generated-files.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-own-target-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-all-target-headers.hmap -iquote /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest-project-headers.hmap -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/usr/local/lib/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/UninstalledProducts/include -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources/armv7 -I/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/DerivedSources -F/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device --serialize-diagnostics /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch.d -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Prefix.pch -o /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-cjehfqggdpaabkchzzwukvgvpoqj/Campus\ Quest-Prefix.pch.pch36"0DE8A578-AC56-499E-8BB8-33D542CCA8BC-
+bDDD66ABB-CEE0-4316-9F50-17EAF89BE103
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest.xcent
+s420236159.285170
+e420236159.310012
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphoneos/Campus Quest.build/Campus Quest.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection241"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist [1mbuild/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest.xcent[0m241"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist [1mbuild/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest.xcent[0m3c14497f4b0cb941^2fa6517f4b0cb941^---0#0#1#-19%DVTDocumentLocation2@147"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus%20Quest.build/Debug-iphoneos/Campus%20Quest.build/Campus%20Quest.xcent0000000000000000^865"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist [1mbuild/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest.xcent[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphoneos/Campus\ Quest.build/Campus\ Quest.xcent36"1385BBE2-4A68-450F-ADB0-5EC2E274CEEF-
+b86FA5696-67E3-4143-BFAE-723AA97BFA7C
+
+CProcessProductPackaging /Users/scsowers/Library/MobileDevice/Provisioning\ Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/embedded.mobileprovision
+s420236159.273280
+e420236159.278205
+r1
+xProcessProductPackaging
+x/Users/scsowers/Library/MobileDevice/Provisioning Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection208"[1mProcessProductPackaging[0m /Users/scsowers/Library/MobileDevice/Provisioning\ Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision [1mbuild/device/Campus\ Quest.app/embedded.mobileprovision[0m208"[1mProcessProductPackaging[0m /Users/scsowers/Library/MobileDevice/Provisioning\ Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision [1mbuild/device/Campus\ Quest.app/embedded.mobileprovision[0me90a467f4b0cb941^c5ae4d7f4b0cb941^---0#0#1#-19%DVTDocumentLocation2@120"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus%20Quest.app/embedded.mobileprovision0034f008dfffdf42^773"[1mProcessProductPackaging[0m /Users/scsowers/Library/MobileDevice/Provisioning\ Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision [1mbuild/device/Campus\ Quest.app/embedded.mobileprovision[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-productPackagingUtility /Users/scsowers/Library/MobileDevice/Provisioning\ Profiles/A42A5402-5DE1-4C4B-A29B-2200BB5DF815.mobileprovision -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app/embedded.mobileprovision36"B3F16958-F67E-4481-A233-F968FD401F98-
+b86FA5696-67E3-4143-BFAE-723AA97BFA7C
+
+CTouch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app
+s420236159.279009
+e420236159.284613
+r1
+xTouch
+x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Touch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus Quest.app44"[1mTouch[0m build/device/Campus\ Quest.app4181477f4b0cb941^5fb64d7f4b0cb941^---0#0#1#--454"[1mTouch[0m build/device/Campus\ Quest.app    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/Campus\ Quest.app36"CF2C28EC-6000-464A-9EBF-33A1969B5835-
+b86FA5696-67E3-4143-BFAE-723AA97BFA7C
+

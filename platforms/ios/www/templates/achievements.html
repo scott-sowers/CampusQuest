@@ -1,11 +1,11 @@
 <ion-view title="Achievements" hide-back-button="true">
     <ion-content has-header="true" padding="true">
-    {{achievements | json}}
         <achievement-card ng-repeat="achievement in achievements"
             name="achievement.achievementName"
             id="achievement.achievementId"
             description="achievement.achievementDescription"
             photo="achievement.achievementPhoto"
+            complete="achievementComplete"
             ></achievement-card>
     </ion-content>
 </ion-view>

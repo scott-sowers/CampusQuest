@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Untitled Document</title>
     <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js"></script>
-    <script src="js/angular-apimock.js"></script>
+    <script src="js/api-mock.js"></script>
 </head>
 <body>
     <div ng-controller="StartGameCtrl">
@@ -19,12 +19,16 @@
 <script>
 var app = angular.module('myApp', ['apiMock'])
 
-.config(function(httpInterceptorProvider) {
+.config(function($httpProvider, httpInterceptorProvider) {
+    $httpProvider.defaults.useXDomain = true;
+    delete $httpProvider.defaults.headers.common['X-Requested-With'];
+    $httpProvider.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
+
     // Configure API Mock
     httpInterceptorProvider.config({
         mockDataPath: 'mock_data',
         apiPath: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api',
-        apiMocked: true
+        apiMocked: false
     });
 })
 
@@ -51,7 +55,6 @@ var app = angular.module('myApp', ['apiMock'])
             _teamName = teamName;
             _achievements = initAchievements(eventAchievements, teamAchievements);
             $rootScope.$broadcast('achievementsUpdated');
-            console.log('init foo');
         },
         getAchievements: function() {
             return _achievements;
@@ -113,7 +116,7 @@ var app = angular.module('myApp', ['apiMock'])
             var eventId = data.eventId;
             var achievements = data.eventGame.gameAchievements;
 
-            QuestApi.addTeamToEvent(teamName).success(function(data) {
+            QuestApi.addTeamToEvent(eventId,teamName).success(function(data) {
                 QuestSession.init(eventId, data.teamName, achievements, data.teamTeamAchievements);
                 $scope.message = 'Game Started'
             }).error(function(data) {
@@ -127,18 +130,12 @@ var app = angular.module('myApp', ['apiMock'])
 })
 
 .controller('AchievementsCtrl', function($scope, QuestApi, QuestSession) {
-    //$scope.achievements = [];
-    /*QuestSession.onAchievementsUpdated($scope,function() {
-        console.log('foo-bar-1');
-        $scope.achievements = QuestSession.achievements;
-    });*/
-    $scope.$on('achievementsUpdated', function() {
-        $scope.achievements = QuestSession.getAchievements();
-    });
+        $scope.$on('achievementsUpdated', function() {
+            $scope.achievements = QuestSession.getAchievements();
+        });
 
-    /*$scope.$on('achievementsUpdated', function() {
-        console.log('updated');
-    });*/
+
+
 });
 
 </script>

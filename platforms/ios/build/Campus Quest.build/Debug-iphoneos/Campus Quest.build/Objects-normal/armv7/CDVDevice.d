@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.m \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDV.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVAvailability.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPlugin.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVPluginResult.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandDelegate.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVViewController.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVCommandQueue.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVWhitelist.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVURLProtocol.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVDebug.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVLocalStorage.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVTimer.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSArray+Comparisons.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSData+Base64.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/NSDictionary+Extensions.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/UIDevice+Extensions.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/device/include/Cordova/CDVJSON.h \
+  /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Plugins/org.apache.cordova.device/CDVDevice.h
