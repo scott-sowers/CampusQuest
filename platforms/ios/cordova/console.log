@@ -1,111 +1,16 @@
-objc[14072]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
-2014-03-15 13:49:19.309 Campus Quest[14072:80b] Cannot find executable for CFBundle 0xa58ffe0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
-2014-03-15 13:49:19.328 Campus Quest[14072:80b] Cannot find executable for CFBundle 0xa47ea80 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
-2014-03-15 13:49:19.371 Campus Quest[14072:80b] Multi-tasking -> Device: YES, App: YES
-2014-03-15 13:49:19.377 Campus Quest[14072:80b] Unlimited access to network resources
-2014-03-15 13:49:19.385 Campus Quest[14072:80b] ERROR: Start Page at 'www/index.html' was not found.
-2014-03-15 13:49:19.514 Campus Quest[14072:80b] Resetting plugins due to page load.
-2014-03-15 13:49:19.539 Campus Quest[14072:80b] Finished load of: about:blank
-objc[15117]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
-2014-03-15 13:58:38.529 Campus Quest[15117:80b] Cannot find executable for CFBundle 0xa43cf50 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
-2014-03-15 13:58:38.581 Campus Quest[15117:80b] Cannot find executable for CFBundle 0xa690180 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
-2014-03-15 13:58:38.635 Campus Quest[15117:80b] Multi-tasking -> Device: YES, App: YES
-2014-03-15 13:58:38.646 Campus Quest[15117:80b] Unlimited access to network resources
-2014-03-15 13:58:38.805 Campus Quest[15117:80b] Resetting plugins due to page load.
-2014-03-15 13:58:38.970 Campus Quest[15117:80b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1F10D610-EB36-44BB-964E-7FC705F72AAE/Campus%20Quest.app/www/index.html
+2014-04-28 11:39:45.185 Campus Quest[22627:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-28 11:39:45.196 Campus Quest[22627:70b] Unlimited access to network resources
+2014-04-28 11:39:45.225 Campus Quest[22627:70b] [CDVTimer][statusbar] 8.557022ms
+2014-04-28 11:39:45.226 Campus Quest[22627:70b] [CDVTimer][TotalPluginStartup] 9.103954ms
+2014-04-28 11:39:45.352 Campus Quest[22627:70b] Resetting plugins due to page load.
+2014-04-28 11:39:45.607 Campus Quest[22627:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
+2014-04-28 11:40:14.397 Campus Quest[22627:70b] Camera.getPicture: source type 1 not available.
+2014-04-28 11:40:18.549 Campus Quest[22627:70b] THREAD WARNING: ['Camera'] took '42.775879' ms. Plugin should use a background thread.
 Terminating in response to SpringBoard's termination.
-objc[24186]: Class AXEmojiUtilities is implemented in both /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/AccessibilityUtilities.framework/AccessibilityUtilities and /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libAXSpeechManager.dylib. One of the two will be used. Which one is undefined.
-2014-03-16 18:54:55.069 Campus Quest[24186:80b] Cannot find executable for CFBundle 0xa65ccd0 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/GeoServices.axbundle> (not loaded)
-2014-03-16 18:54:55.087 Campus Quest[24186:80b] Cannot find executable for CFBundle 0xa75a920 </Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/AccessibilityBundles/CertUIFramework.axbundle> (not loaded)
-2014-03-16 18:54:55.146 Campus Quest[24186:80b] Multi-tasking -> Device: YES, App: YES
-2014-03-16 18:54:55.154 Campus Quest[24186:80b] Unlimited access to network resources
-2014-03-16 18:54:55.318 Campus Quest[24186:80b] Resetting plugins due to page load.
-2014-03-16 18:54:55.569 Campus Quest[24186:80b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/1F10D610-EB36-44BB-964E-7FC705F72AAE/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-14 23:38:00.504 Campus Quest[26229:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-14 23:38:00.529 Campus Quest[26229:70b] Unlimited access to network resources
-2014-04-14 23:38:00.869 Campus Quest[26229:70b] Resetting plugins due to page load.
-2014-04-14 23:38:01.182 Campus Quest[26229:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/83CFAA93-BE31-4F91-9C50-FF1B2B7B6CB8/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-15 16:54:14.806 Campus Quest[3749:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 16:54:14.832 Campus Quest[3749:70b] Unlimited access to network resources
-2014-04-15 16:54:15.211 Campus Quest[3749:70b] Resetting plugins due to page load.
-2014-04-15 16:54:15.543 Campus Quest[3749:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/83CFAA93-BE31-4F91-9C50-FF1B2B7B6CB8/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-15 16:56:46.006 Campus Quest[4389:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 16:56:46.015 Campus Quest[4389:70b] Unlimited access to network resources
-2014-04-15 16:56:46.143 Campus Quest[4389:70b] Resetting plugins due to page load.
-2014-04-15 16:56:46.459 Campus Quest[4389:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/83CFAA93-BE31-4F91-9C50-FF1B2B7B6CB8/Campus%20Quest.app/www/index.html#/start-game
-2014-04-15 18:53:03.698 Campus Quest[5399:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 18:53:03.742 Campus Quest[5399:70b] Unlimited access to network resources
-2014-04-15 18:53:04.102 Campus Quest[5399:70b] Resetting plugins due to page load.
-2014-04-15 18:53:04.403 Campus Quest[5399:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/83CFAA93-BE31-4F91-9C50-FF1B2B7B6CB8/Campus%20Quest.app/www/index.html#/start-game
-2014-04-15 18:55:04.358 Campus Quest[5722:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 18:55:04.364 Campus Quest[5722:70b] Unlimited access to network resources
-2014-04-15 18:55:04.464 Campus Quest[5722:70b] Resetting plugins due to page load.
-2014-04-15 18:55:04.616 Campus Quest[5722:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-15 19:06:50.687 Campus Quest[7088:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 19:06:50.694 Campus Quest[7088:70b] Unlimited access to network resources
-2014-04-15 19:06:50.752 Campus Quest[7088:70b] Resetting plugins due to page load.
-2014-04-15 19:06:50.906 Campus Quest[7088:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-15 19:07:07.953 Campus Quest[7276:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 19:07:07.962 Campus Quest[7276:70b] Unlimited access to network resources
-2014-04-15 19:07:08.102 Campus Quest[7276:70b] Resetting plugins due to page load.
-2014-04-15 19:07:08.433 Campus Quest[7276:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-15 19:09:43.339 Campus Quest[7830:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 19:09:43.351 Campus Quest[7830:70b] Unlimited access to network resources
-2014-04-15 19:09:43.502 Campus Quest[7830:70b] Resetting plugins due to page load.
-2014-04-15 19:09:43.782 Campus Quest[7830:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-15 19:11:47.683 Campus Quest[8277:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 19:11:47.692 Campus Quest[8277:70b] Unlimited access to network resources
-2014-04-15 19:11:47.841 Campus Quest[8277:70b] Resetting plugins due to page load.
-2014-04-15 19:11:48.120 Campus Quest[8277:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-15 19:12:53.982 Campus Quest[8642:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 19:12:53.992 Campus Quest[8642:70b] Unlimited access to network resources
-2014-04-15 19:12:54.146 Campus Quest[8642:70b] Resetting plugins due to page load.
-2014-04-15 19:12:54.430 Campus Quest[8642:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-15 19:15:18.931 Campus Quest[9151:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 19:15:18.940 Campus Quest[9151:70b] Unlimited access to network resources
-2014-04-15 19:15:19.112 Campus Quest[9151:70b] Resetting plugins due to page load.
-2014-04-15 19:15:19.347 Campus Quest[9151:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-15 19:16:13.009 Campus Quest[9480:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-15 19:16:13.019 Campus Quest[9480:70b] Unlimited access to network resources
-2014-04-15 19:16:13.163 Campus Quest[9480:70b] Resetting plugins due to page load.
-2014-04-15 19:16:13.491 Campus Quest[9480:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-17 13:54:28.357 Campus Quest[2538:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-17 13:54:28.383 Campus Quest[2538:70b] Unlimited access to network resources
-2014-04-17 13:54:28.680 Campus Quest[2538:70b] Resetting plugins due to page load.
-2014-04-17 13:54:29.138 Campus Quest[2538:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-17 13:58:55.240 Campus Quest[3171:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-17 13:58:55.249 Campus Quest[3171:70b] Unlimited access to network resources
-2014-04-17 13:58:55.389 Campus Quest[3171:70b] Resetting plugins due to page load.
-2014-04-17 13:58:55.835 Campus Quest[3171:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-17 14:39:53.056 Campus Quest[7213:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-17 14:39:53.065 Campus Quest[7213:70b] Unlimited access to network resources
-2014-04-17 14:39:53.215 Campus Quest[7213:70b] Resetting plugins due to page load.
-2014-04-17 14:39:53.536 Campus Quest[7213:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-20 15:02:44.760 Campus Quest[5461:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-20 15:02:44.794 Campus Quest[5461:70b] Unlimited access to network resources
-2014-04-20 15:02:45.087 Campus Quest[5461:70b] Resetting plugins due to page load.
-2014-04-20 15:02:45.353 Campus Quest[5461:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-20 16:52:31.551 Campus Quest[6979:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-20 16:52:31.565 Campus Quest[6979:70b] Unlimited access to network resources
-2014-04-20 16:52:31.698 Campus Quest[6979:70b] Resetting plugins due to page load.
-2014-04-20 16:52:32.004 Campus Quest[6979:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-Terminating in response to SpringBoard's termination.
-2014-04-20 17:18:25.849 Campus Quest[9743:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-20 17:18:25.859 Campus Quest[9743:70b] Unlimited access to network resources
-2014-04-20 17:18:25.990 Campus Quest[9743:70b] Resetting plugins due to page load.
-2014-04-20 17:18:26.284 Campus Quest[9743:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-20 17:20:25.396 Campus Quest[10236:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-20 17:20:25.405 Campus Quest[10236:70b] Unlimited access to network resources
-2014-04-20 17:20:25.542 Campus Quest[10236:70b] Resetting plugins due to page load.
-2014-04-20 17:20:25.812 Campus Quest[10236:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
-2014-04-20 17:21:42.812 Campus Quest[10658:70b] Multi-tasking -> Device: YES, App: YES
-2014-04-20 17:21:42.821 Campus Quest[10658:70b] Unlimited access to network resources
-2014-04-20 17:21:42.998 Campus Quest[10658:70b] Resetting plugins due to page load.
-2014-04-20 17:21:43.244 Campus Quest[10658:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
+2014-04-28 11:49:35.999 Campus Quest[23861:70b] Multi-tasking -> Device: YES, App: YES
+2014-04-28 11:49:36.009 Campus Quest[23861:70b] Unlimited access to network resources
+2014-04-28 11:49:36.050 Campus Quest[23861:70b] [CDVTimer][statusbar] 18.693984ms
+2014-04-28 11:49:36.050 Campus Quest[23861:70b] [CDVTimer][TotalPluginStartup] 19.205034ms
+2014-04-28 11:49:36.224 Campus Quest[23861:70b] Resetting plugins due to page load.
+2014-04-28 11:49:36.448 Campus Quest[23861:70b] Finished load of: file:///Users/scsowers/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/A01599B4-B7DF-4CE2-8D31-4469001C8CD2/Campus%20Quest.app/www/index.html#/start-game
+2014-04-28 11:50:44.952 Campus Quest[23861:70b] THREAD WARNING: ['Camera'] took '50.824951' ms. Plugin should use a background thread.

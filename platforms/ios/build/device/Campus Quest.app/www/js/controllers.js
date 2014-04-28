@@ -1,6 +1,14 @@
 angular.module('CampusQuest.controllers', ['ionic'])
 
-.controller('StartGameCtrl', function($rootScope, $scope, $state, $ionicPopup, QuestApi, QuestSession) {
+.controller('MenuCtrl', function($scope) {
+
+})
+
+.controller('AboutCtrl', function($scope) {
+
+})
+
+.controller('StartGameCtrl', function($scope, $state, $ionicPopup, QuestApi, QuestSession) {
     $scope.startGame = function(gameCode,teamName) {
 
         QuestApi.getEventByCode(gameCode).success(function(data) {
@@ -9,7 +17,7 @@ angular.module('CampusQuest.controllers', ['ionic'])
 
             QuestApi.addTeamToEvent(eventId,teamName).success(function(data) {
                 QuestSession.init(eventId, data.teamName, achievements, data.teamTeamAchievements);
-                $state.go('achievements');
+                $state.go('app.achievements');
             }).error(function(data) {
                 $ionicPopup.alert({
                     title: 'Invalid Team Name'
@@ -28,8 +36,10 @@ angular.module('CampusQuest.controllers', ['ionic'])
     };
 })
 
-.controller('AchievementsCtrl', function($scope, $state, $ionicPopup, QuestApi, QuestSession) {
-    //$scope.$on('achievementsUpdated', function() {
+.controller('AchievementsCtrl', function($scope, $state, $ionicPopup, $ionicSideMenuDelegate, QuestApi, QuestSession) {
+
         $scope.achievements = QuestSession.getAchievements();
-    //});
+        $scope.toggleLeft = function() {
+            $ionicSideMenuDelegate.toggleLeft();
+        }
 });

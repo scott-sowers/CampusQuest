@@ -22,6 +22,8 @@
     <feature name="Device">
         <param name="ios-package" value="CDVDevice" />
     </feature>
+    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#000000" />
     <name>Campus Quest</name>
     <description>
         A scavenger hunt app
@@ -37,5 +39,8 @@
     <preference name="DisallowOverscroll" value="true" />
     <feature name="Camera">
         <param name="ios-package" value="CDVCamera" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="ios-package" onload="true" value="CDVStatusBar" />
     </feature>
 </widget>

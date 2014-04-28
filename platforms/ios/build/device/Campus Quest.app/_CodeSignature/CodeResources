@@ -38,7 +38,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		vxGDVOexRbzTkWXBiRzXTJ4dl6s=
+		LcbAHcUcO+2NICBn8vTr8+GLBok=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		BNmz1P2LH9ZtmN0smO+cCgoCo7c=
+		PRQpeESY5wCvIljPACzOoRk6uFU=
 		</data>
 		<key>www/css/ionic.css</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		JAwDMllzp8F1uwqXsRFKwfavybg=
+		wkb/c4XvBrwZu7B/7NyOZE1dyeo=
 		</data>
 		<key>www/js/angular-ui/angular-ui-router.js</key>
 		<data>
@@ -194,15 +194,15 @@
 		</data>
 		<key>www/js/app.js</key>
 		<data>
-		Eq1+yyuCcYRf09FM7ejX2FDFa1o=
+		/Vw2qkryLoztNTJKPZPzhMeIHN4=
 		</data>
 		<key>www/js/controllers.js</key>
 		<data>
-		/blDQrrfW/Fr84Tm6o1+5KG6kOQ=
+		80lgqqkuxcF53wLTpJfUdQ0p3Yg=
 		</data>
 		<key>www/js/directives.js</key>
 		<data>
-		rvsfzmfuIMd4C3isnMHvB9jkWoQ=
+		yjOdTl8rtDqxtx6svBa3zOclMF4=
 		</data>
 		<key>www/js/ionic-angular.js</key>
 		<data>
@@ -232,93 +232,229 @@
 		<data>
 		Sz0//biVD8t1zDM7wKAyj8hs+xY=
 		</data>
-		<key>www/lib/css/ionic.css</key>
+		<key>www/lib/ionic/css/ionic.css</key>
 		<data>
-		4P8PT/XcYbhjrOGJb/kutUSJqfE=
+		lRR7vPmO3dI5kgkW23Fg9lfxBgI=
 		</data>
-		<key>www/lib/css/ionic.min.css</key>
+		<key>www/lib/ionic/css/ionic.min.css</key>
 		<data>
-		qnR1bnbI/9ovZRs2UhLiWoIyaYQ=
+		0zRPxmipr3RfAJPDAQs2nFv+82Q=
 		</data>
-		<key>www/lib/fonts/ionicons.eot</key>
+		<key>www/lib/ionic/fonts/ionicons.eot</key>
 		<data>
 		oJz7SaYwbhgTRotUVTTxGuEbvYI=
 		</data>
-		<key>www/lib/fonts/ionicons.svg</key>
+		<key>www/lib/ionic/fonts/ionicons.svg</key>
 		<data>
 		h0qSksMHtPJo+DoY7N9ZKV6Xf7w=
 		</data>
-		<key>www/lib/fonts/ionicons.ttf</key>
+		<key>www/lib/ionic/fonts/ionicons.ttf</key>
 		<data>
 		Mb8aa7eWKgGwTkE/wSNSkZM95vk=
 		</data>
-		<key>www/lib/fonts/ionicons.woff</key>
+		<key>www/lib/ionic/fonts/ionicons.woff</key>
 		<data>
 		kipigplYFPMp8bGAFsYZJWCT59c=
 		</data>
-		<key>www/lib/js/angular-ui/angular-ui-router.js</key>
+		<key>www/lib/ionic/js/angular-ui/angular-ui-router.js</key>
 		<data>
 		AROXsPkf/hD0h8rwXHjKVqiB3ic=
 		</data>
-		<key>www/lib/js/angular-ui/angular-ui-router.min.js</key>
+		<key>www/lib/ionic/js/angular-ui/angular-ui-router.min.js</key>
 		<data>
 		+x5KKPVqkxh74/DPuLcgW3kulXE=
 		</data>
-		<key>www/lib/js/angular/angular-animate.js</key>
+		<key>www/lib/ionic/js/angular/angular-animate.js</key>
 		<data>
 		3/r/lCI7Z5S1F8oCul7iu34v66U=
 		</data>
-		<key>www/lib/js/angular/angular-animate.min.js</key>
+		<key>www/lib/ionic/js/angular/angular-animate.min.js</key>
 		<data>
 		jUqwE0B3tEJRjV/YDqGVIaqYf+8=
 		</data>
-		<key>www/lib/js/angular/angular-resource.js</key>
+		<key>www/lib/ionic/js/angular/angular-resource.js</key>
 		<data>
 		0du8lpDalzGVSinx08Edx7k0u0A=
 		</data>
-		<key>www/lib/js/angular/angular-resource.min.js</key>
+		<key>www/lib/ionic/js/angular/angular-resource.min.js</key>
 		<data>
 		tuWK4zht93/cexPqQdKypDW4RnY=
 		</data>
-		<key>www/lib/js/angular/angular-sanitize.js</key>
+		<key>www/lib/ionic/js/angular/angular-sanitize.js</key>
 		<data>
 		KpsxglBasDh/4bMD2SPi98ikDAE=
 		</data>
-		<key>www/lib/js/angular/angular-sanitize.min.js</key>
+		<key>www/lib/ionic/js/angular/angular-sanitize.min.js</key>
 		<data>
 		V+B4JYDWBkColWPFStuXinlUl5Q=
 		</data>
-		<key>www/lib/js/angular/angular.js</key>
+		<key>www/lib/ionic/js/angular/angular.js</key>
 		<data>
 		BHgk/hv2lYJLgadUFHOoU1N9JbE=
 		</data>
-		<key>www/lib/js/angular/angular.min.js</key>
+		<key>www/lib/ionic/js/angular/angular.min.js</key>
 		<data>
 		H4ZWjcXwIX02GStJmzBBEv84Ky0=
 		</data>
-		<key>www/lib/js/ionic-angular.js</key>
+		<key>www/lib/ionic/js/ionic-angular.js</key>
 		<data>
-		FPbH0QEeKM9hpCXzAPGPOsOFkyY=
+		i2k09Ev9AB+PHg65DTsV2SdGKg0=
 		</data>
-		<key>www/lib/js/ionic-angular.min.js</key>
+		<key>www/lib/ionic/js/ionic-angular.min.js</key>
 		<data>
-		O+4isCF27P2F0fy+IvKq3PhIDrQ=
+		dpZONpLlZK41vBTxDyZqN5EQv5k=
 		</data>
-		<key>www/lib/js/ionic.bundle.js</key>
+		<key>www/lib/ionic/js/ionic.bundle.js</key>
 		<data>
-		O5KH5r4JvwcMS8K2j3wv2JnJUWg=
+		FID0xjHf+SVfe9yyfKfmcKJW5cg=
 		</data>
-		<key>www/lib/js/ionic.bundle.min.js</key>
+		<key>www/lib/ionic/js/ionic.bundle.min.js</key>
 		<data>
-		nXhDGI73yCfvuuDHbRtt58EEeDg=
+		ZH99DD2VFFP2REYAQR5wbA25nRw=
 		</data>
-		<key>www/lib/js/ionic.js</key>
+		<key>www/lib/ionic/js/ionic.js</key>
 		<data>
-		+X0IuACVWodoi/ACtLsIj4zmt+w=
+		4AsaV+EafVTPeTBAO0dnGM7+JWw=
 		</data>
-		<key>www/lib/js/ionic.min.js</key>
+		<key>www/lib/ionic/js/ionic.min.js</key>
 		<data>
-		M4gE61CIi2SQuXvfqyTv62x4Vjk=
+		vmN/PRb8nX9MCaa8vKh3smqtOhA=
+		</data>
+		<key>www/lib/ionic/scss/_action-sheet.scss</key>
+		<data>
+		aTK8W5LMclihonH8rSadUfAaYj0=
+		</data>
+		<key>www/lib/ionic/scss/_animations.scss</key>
+		<data>
+		lbuaBDyT2l3MfhyuVhyyF+eDYRA=
+		</data>
+		<key>www/lib/ionic/scss/_badge.scss</key>
+		<data>
+		tk3cRbGA199kL3fU80ZIZSnrogc=
+		</data>
+		<key>www/lib/ionic/scss/_bar.scss</key>
+		<data>
+		s7hdihNG6mz0ZBYKS9Lqy/swK58=
+		</data>
+		<key>www/lib/ionic/scss/_button-bar.scss</key>
+		<data>
+		+DH4kv21Q8nEAO/cJagnKF4L2ko=
+		</data>
+		<key>www/lib/ionic/scss/_button.scss</key>
+		<data>
+		Vy4NJewT5ptV3bwyqLQAfPMU0mY=
+		</data>
+		<key>www/lib/ionic/scss/_checkbox.scss</key>
+		<data>
+		ZFUjL8tTeFZleLBG8SgdbXcaATY=
+		</data>
+		<key>www/lib/ionic/scss/_form.scss</key>
+		<data>
+		8Y+vuLPW1IFYCAiVOi6ZEehbbeE=
+		</data>
+		<key>www/lib/ionic/scss/_grid.scss</key>
+		<data>
+		EQyoi1/rRs0Y5BPvRYtwoeCHVDg=
+		</data>
+		<key>www/lib/ionic/scss/_items.scss</key>
+		<data>
+		MfwhCP8ccqafwrG8ol7Ip2kQ0mE=
+		</data>
+		<key>www/lib/ionic/scss/_list.scss</key>
+		<data>
+		TKcqZSIJN/VVOEnPgKHTwMmKTTU=
+		</data>
+		<key>www/lib/ionic/scss/_menu.scss</key>
+		<data>
+		Rzp4jspqZm+OZlhEyc1M4vhu0l8=
+		</data>
+		<key>www/lib/ionic/scss/_mixins.scss</key>
+		<data>
+		XQn76umzBnFJYwI8GAP7FTW7gYE=
+		</data>
+		<key>www/lib/ionic/scss/_modal.scss</key>
+		<data>
+		blPAv6FyXvJy6xktkV2utfq/8SU=
+		</data>
+		<key>www/lib/ionic/scss/_platform.scss</key>
+		<data>
+		HGGRrGUHjhBaiBrpXLCS3jpfISo=
+		</data>
+		<key>www/lib/ionic/scss/_popup.scss</key>
+		<data>
+		kAU7SzHdGmtubNyQUQbBxfE5754=
+		</data>
+		<key>www/lib/ionic/scss/_progress.scss</key>
+		<data>
+		Ydk8wjpcyU4HH8urN0rYPeUHH4c=
+		</data>
+		<key>www/lib/ionic/scss/_radio.scss</key>
+		<data>
+		xWEttxos5pOWbGaJ7wEADptpYsw=
+		</data>
+		<key>www/lib/ionic/scss/_range.scss</key>
+		<data>
+		YmQt5Foo8VNvrOK6MrrFVcboBio=
+		</data>
+		<key>www/lib/ionic/scss/_reset.scss</key>
+		<data>
+		7zgsOG6cix7anmQ6R2Rjrq+GOYA=
+		</data>
+		<key>www/lib/ionic/scss/_scaffolding.scss</key>
+		<data>
+		EWjOlrQ9jVnKdlkbg4D84ltCRAI=
+		</data>
+		<key>www/lib/ionic/scss/_slide-box.scss</key>
+		<data>
+		a61k8LGG6YGKUogwReosGBkbgTo=
+		</data>
+		<key>www/lib/ionic/scss/_split-pane.scss</key>
+		<data>
+		ccx6YebulhZ9k9Nz721k1Eiwzu4=
+		</data>
+		<key>www/lib/ionic/scss/_tabs.scss</key>
+		<data>
+		H5+znaOgpELPsrLtGKan1fJaV3Q=
+		</data>
+		<key>www/lib/ionic/scss/_toggle.scss</key>
+		<data>
+		W5sQx8pE9b5Zy8flDP8R0uxQtfU=
+		</data>
+		<key>www/lib/ionic/scss/_type.scss</key>
+		<data>
+		np4ubudRt+5Ece8O31YOq1tjtfU=
+		</data>
+		<key>www/lib/ionic/scss/_util.scss</key>
+		<data>
+		g2Q9jMSl5zeNpFycpohxjropkBs=
+		</data>
+		<key>www/lib/ionic/scss/_variables.scss</key>
+		<data>
+		Op6mRQSqu0Wpcnpyd6msCjHx75s=
+		</data>
+		<key>www/lib/ionic/scss/ionic.scss</key>
+		<data>
+		TWo/pwANWl50MD6F6ezH4SkXe+A=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-animation.scss</key>
+		<data>
+		MQhWvgJm0CT0i+WMxiY+p5GmDFM=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-font.scss</key>
+		<data>
+		y9qlILIxqbvWkCEBvVXC0yaEGuY=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-icons.scss</key>
+		<data>
+		QETniNYDtzSDYH0/kaP8RmpHs7U=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-variables.scss</key>
+		<data>
+		g6K431U3D9ypKP5/p/4hWEml+kw=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/ionicons.scss</key>
+		<data>
+		ego2Y/VtrBkdGW+NfpGta8Ty91k=
 		</data>
 		<key>www/mock_data/calls.json</key>
 		<data>
@@ -364,17 +500,29 @@
 		<data>
 		0VB068Ut1MbjDx+uAiPrdNduO1Y=
 		</data>
+		<key>www/plugins/org.apache.cordova.statusbar/www/statusbar.js</key>
+		<data>
+		O6kLo237EK8kmbTzvDnaHZtGlqQ=
+		</data>
+		<key>www/templates/about.html</key>
+		<data>
+		2D8bz4BuT6L0VtlMcu4w1i0h2yU=
+		</data>
 		<key>www/templates/achievement-card.html</key>
 		<data>
-		y4JNE+neL0R55dxQGtHGih4PMGU=
+		IMucfIFqy8G0ofN7BsCD4KSD/t4=
 		</data>
 		<key>www/templates/achievements.html</key>
 		<data>
-		PP7v8CeIseGxc7vt8OmxDZVNoHY=
+		UqT/DzUu2Y90Lx4X9pshJGgoqOQ=
+		</data>
+		<key>www/templates/menu.html</key>
+		<data>
+		tdA+XqJtKn8uUqz/iXhvVL4Aff8=
 		</data>
 		<key>www/templates/start-game.html</key>
 		<data>
-		q62GiFqVnDVJwW4OB0oY6rGPpjM=
+		4h3w2o/aP6D2Hq965tra8Vm8Ers=
 		</data>
 		<key>www/test.html</key>
 		<data>
@@ -421,7 +569,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		vxGDVOexRbzTkWXBiRzXTJ4dl6s=
+		LcbAHcUcO+2NICBn8vTr8+GLBok=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<data>
@@ -497,7 +645,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		BNmz1P2LH9ZtmN0smO+cCgoCo7c=
+		PRQpeESY5wCvIljPACzOoRk6uFU=
 		</data>
 		<key>www/css/ionic.css</key>
 		<data>
@@ -529,7 +677,7 @@
 		</data>
 		<key>www/index.html</key>
 		<data>
-		JAwDMllzp8F1uwqXsRFKwfavybg=
+		wkb/c4XvBrwZu7B/7NyOZE1dyeo=
 		</data>
 		<key>www/js/angular-ui/angular-ui-router.js</key>
 		<data>
@@ -577,15 +725,15 @@
 		</data>
 		<key>www/js/app.js</key>
 		<data>
-		Eq1+yyuCcYRf09FM7ejX2FDFa1o=
+		/Vw2qkryLoztNTJKPZPzhMeIHN4=
 		</data>
 		<key>www/js/controllers.js</key>
 		<data>
-		/blDQrrfW/Fr84Tm6o1+5KG6kOQ=
+		80lgqqkuxcF53wLTpJfUdQ0p3Yg=
 		</data>
 		<key>www/js/directives.js</key>
 		<data>
-		rvsfzmfuIMd4C3isnMHvB9jkWoQ=
+		yjOdTl8rtDqxtx6svBa3zOclMF4=
 		</data>
 		<key>www/js/ionic-angular.js</key>
 		<data>
@@ -615,93 +763,229 @@
 		<data>
 		Sz0//biVD8t1zDM7wKAyj8hs+xY=
 		</data>
-		<key>www/lib/css/ionic.css</key>
+		<key>www/lib/ionic/css/ionic.css</key>
 		<data>
-		4P8PT/XcYbhjrOGJb/kutUSJqfE=
+		lRR7vPmO3dI5kgkW23Fg9lfxBgI=
 		</data>
-		<key>www/lib/css/ionic.min.css</key>
+		<key>www/lib/ionic/css/ionic.min.css</key>
 		<data>
-		qnR1bnbI/9ovZRs2UhLiWoIyaYQ=
+		0zRPxmipr3RfAJPDAQs2nFv+82Q=
 		</data>
-		<key>www/lib/fonts/ionicons.eot</key>
+		<key>www/lib/ionic/fonts/ionicons.eot</key>
 		<data>
 		oJz7SaYwbhgTRotUVTTxGuEbvYI=
 		</data>
-		<key>www/lib/fonts/ionicons.svg</key>
+		<key>www/lib/ionic/fonts/ionicons.svg</key>
 		<data>
 		h0qSksMHtPJo+DoY7N9ZKV6Xf7w=
 		</data>
-		<key>www/lib/fonts/ionicons.ttf</key>
+		<key>www/lib/ionic/fonts/ionicons.ttf</key>
 		<data>
 		Mb8aa7eWKgGwTkE/wSNSkZM95vk=
 		</data>
-		<key>www/lib/fonts/ionicons.woff</key>
+		<key>www/lib/ionic/fonts/ionicons.woff</key>
 		<data>
 		kipigplYFPMp8bGAFsYZJWCT59c=
 		</data>
-		<key>www/lib/js/angular-ui/angular-ui-router.js</key>
+		<key>www/lib/ionic/js/angular-ui/angular-ui-router.js</key>
 		<data>
 		AROXsPkf/hD0h8rwXHjKVqiB3ic=
 		</data>
-		<key>www/lib/js/angular-ui/angular-ui-router.min.js</key>
+		<key>www/lib/ionic/js/angular-ui/angular-ui-router.min.js</key>
 		<data>
 		+x5KKPVqkxh74/DPuLcgW3kulXE=
 		</data>
-		<key>www/lib/js/angular/angular-animate.js</key>
+		<key>www/lib/ionic/js/angular/angular-animate.js</key>
 		<data>
 		3/r/lCI7Z5S1F8oCul7iu34v66U=
 		</data>
-		<key>www/lib/js/angular/angular-animate.min.js</key>
+		<key>www/lib/ionic/js/angular/angular-animate.min.js</key>
 		<data>
 		jUqwE0B3tEJRjV/YDqGVIaqYf+8=
 		</data>
-		<key>www/lib/js/angular/angular-resource.js</key>
+		<key>www/lib/ionic/js/angular/angular-resource.js</key>
 		<data>
 		0du8lpDalzGVSinx08Edx7k0u0A=
 		</data>
-		<key>www/lib/js/angular/angular-resource.min.js</key>
+		<key>www/lib/ionic/js/angular/angular-resource.min.js</key>
 		<data>
 		tuWK4zht93/cexPqQdKypDW4RnY=
 		</data>
-		<key>www/lib/js/angular/angular-sanitize.js</key>
+		<key>www/lib/ionic/js/angular/angular-sanitize.js</key>
 		<data>
 		KpsxglBasDh/4bMD2SPi98ikDAE=
 		</data>
-		<key>www/lib/js/angular/angular-sanitize.min.js</key>
+		<key>www/lib/ionic/js/angular/angular-sanitize.min.js</key>
 		<data>
 		V+B4JYDWBkColWPFStuXinlUl5Q=
 		</data>
-		<key>www/lib/js/angular/angular.js</key>
+		<key>www/lib/ionic/js/angular/angular.js</key>
 		<data>
 		BHgk/hv2lYJLgadUFHOoU1N9JbE=
 		</data>
-		<key>www/lib/js/angular/angular.min.js</key>
+		<key>www/lib/ionic/js/angular/angular.min.js</key>
 		<data>
 		H4ZWjcXwIX02GStJmzBBEv84Ky0=
 		</data>
-		<key>www/lib/js/ionic-angular.js</key>
+		<key>www/lib/ionic/js/ionic-angular.js</key>
 		<data>
-		FPbH0QEeKM9hpCXzAPGPOsOFkyY=
+		i2k09Ev9AB+PHg65DTsV2SdGKg0=
 		</data>
-		<key>www/lib/js/ionic-angular.min.js</key>
+		<key>www/lib/ionic/js/ionic-angular.min.js</key>
 		<data>
-		O+4isCF27P2F0fy+IvKq3PhIDrQ=
+		dpZONpLlZK41vBTxDyZqN5EQv5k=
 		</data>
-		<key>www/lib/js/ionic.bundle.js</key>
+		<key>www/lib/ionic/js/ionic.bundle.js</key>
 		<data>
-		O5KH5r4JvwcMS8K2j3wv2JnJUWg=
+		FID0xjHf+SVfe9yyfKfmcKJW5cg=
 		</data>
-		<key>www/lib/js/ionic.bundle.min.js</key>
+		<key>www/lib/ionic/js/ionic.bundle.min.js</key>
 		<data>
-		nXhDGI73yCfvuuDHbRtt58EEeDg=
+		ZH99DD2VFFP2REYAQR5wbA25nRw=
 		</data>
-		<key>www/lib/js/ionic.js</key>
+		<key>www/lib/ionic/js/ionic.js</key>
 		<data>
-		+X0IuACVWodoi/ACtLsIj4zmt+w=
+		4AsaV+EafVTPeTBAO0dnGM7+JWw=
 		</data>
-		<key>www/lib/js/ionic.min.js</key>
+		<key>www/lib/ionic/js/ionic.min.js</key>
 		<data>
-		M4gE61CIi2SQuXvfqyTv62x4Vjk=
+		vmN/PRb8nX9MCaa8vKh3smqtOhA=
+		</data>
+		<key>www/lib/ionic/scss/_action-sheet.scss</key>
+		<data>
+		aTK8W5LMclihonH8rSadUfAaYj0=
+		</data>
+		<key>www/lib/ionic/scss/_animations.scss</key>
+		<data>
+		lbuaBDyT2l3MfhyuVhyyF+eDYRA=
+		</data>
+		<key>www/lib/ionic/scss/_badge.scss</key>
+		<data>
+		tk3cRbGA199kL3fU80ZIZSnrogc=
+		</data>
+		<key>www/lib/ionic/scss/_bar.scss</key>
+		<data>
+		s7hdihNG6mz0ZBYKS9Lqy/swK58=
+		</data>
+		<key>www/lib/ionic/scss/_button-bar.scss</key>
+		<data>
+		+DH4kv21Q8nEAO/cJagnKF4L2ko=
+		</data>
+		<key>www/lib/ionic/scss/_button.scss</key>
+		<data>
+		Vy4NJewT5ptV3bwyqLQAfPMU0mY=
+		</data>
+		<key>www/lib/ionic/scss/_checkbox.scss</key>
+		<data>
+		ZFUjL8tTeFZleLBG8SgdbXcaATY=
+		</data>
+		<key>www/lib/ionic/scss/_form.scss</key>
+		<data>
+		8Y+vuLPW1IFYCAiVOi6ZEehbbeE=
+		</data>
+		<key>www/lib/ionic/scss/_grid.scss</key>
+		<data>
+		EQyoi1/rRs0Y5BPvRYtwoeCHVDg=
+		</data>
+		<key>www/lib/ionic/scss/_items.scss</key>
+		<data>
+		MfwhCP8ccqafwrG8ol7Ip2kQ0mE=
+		</data>
+		<key>www/lib/ionic/scss/_list.scss</key>
+		<data>
+		TKcqZSIJN/VVOEnPgKHTwMmKTTU=
+		</data>
+		<key>www/lib/ionic/scss/_menu.scss</key>
+		<data>
+		Rzp4jspqZm+OZlhEyc1M4vhu0l8=
+		</data>
+		<key>www/lib/ionic/scss/_mixins.scss</key>
+		<data>
+		XQn76umzBnFJYwI8GAP7FTW7gYE=
+		</data>
+		<key>www/lib/ionic/scss/_modal.scss</key>
+		<data>
+		blPAv6FyXvJy6xktkV2utfq/8SU=
+		</data>
+		<key>www/lib/ionic/scss/_platform.scss</key>
+		<data>
+		HGGRrGUHjhBaiBrpXLCS3jpfISo=
+		</data>
+		<key>www/lib/ionic/scss/_popup.scss</key>
+		<data>
+		kAU7SzHdGmtubNyQUQbBxfE5754=
+		</data>
+		<key>www/lib/ionic/scss/_progress.scss</key>
+		<data>
+		Ydk8wjpcyU4HH8urN0rYPeUHH4c=
+		</data>
+		<key>www/lib/ionic/scss/_radio.scss</key>
+		<data>
+		xWEttxos5pOWbGaJ7wEADptpYsw=
+		</data>
+		<key>www/lib/ionic/scss/_range.scss</key>
+		<data>
+		YmQt5Foo8VNvrOK6MrrFVcboBio=
+		</data>
+		<key>www/lib/ionic/scss/_reset.scss</key>
+		<data>
+		7zgsOG6cix7anmQ6R2Rjrq+GOYA=
+		</data>
+		<key>www/lib/ionic/scss/_scaffolding.scss</key>
+		<data>
+		EWjOlrQ9jVnKdlkbg4D84ltCRAI=
+		</data>
+		<key>www/lib/ionic/scss/_slide-box.scss</key>
+		<data>
+		a61k8LGG6YGKUogwReosGBkbgTo=
+		</data>
+		<key>www/lib/ionic/scss/_split-pane.scss</key>
+		<data>
+		ccx6YebulhZ9k9Nz721k1Eiwzu4=
+		</data>
+		<key>www/lib/ionic/scss/_tabs.scss</key>
+		<data>
+		H5+znaOgpELPsrLtGKan1fJaV3Q=
+		</data>
+		<key>www/lib/ionic/scss/_toggle.scss</key>
+		<data>
+		W5sQx8pE9b5Zy8flDP8R0uxQtfU=
+		</data>
+		<key>www/lib/ionic/scss/_type.scss</key>
+		<data>
+		np4ubudRt+5Ece8O31YOq1tjtfU=
+		</data>
+		<key>www/lib/ionic/scss/_util.scss</key>
+		<data>
+		g2Q9jMSl5zeNpFycpohxjropkBs=
+		</data>
+		<key>www/lib/ionic/scss/_variables.scss</key>
+		<data>
+		Op6mRQSqu0Wpcnpyd6msCjHx75s=
+		</data>
+		<key>www/lib/ionic/scss/ionic.scss</key>
+		<data>
+		TWo/pwANWl50MD6F6ezH4SkXe+A=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-animation.scss</key>
+		<data>
+		MQhWvgJm0CT0i+WMxiY+p5GmDFM=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-font.scss</key>
+		<data>
+		y9qlILIxqbvWkCEBvVXC0yaEGuY=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-icons.scss</key>
+		<data>
+		QETniNYDtzSDYH0/kaP8RmpHs7U=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/_ionicons-variables.scss</key>
+		<data>
+		g6K431U3D9ypKP5/p/4hWEml+kw=
+		</data>
+		<key>www/lib/ionic/scss/ionicons/ionicons.scss</key>
+		<data>
+		ego2Y/VtrBkdGW+NfpGta8Ty91k=
 		</data>
 		<key>www/mock_data/calls.json</key>
 		<data>
@@ -747,17 +1031,29 @@
 		<data>
 		0VB068Ut1MbjDx+uAiPrdNduO1Y=
 		</data>
+		<key>www/plugins/org.apache.cordova.statusbar/www/statusbar.js</key>
+		<data>
+		O6kLo237EK8kmbTzvDnaHZtGlqQ=
+		</data>
+		<key>www/templates/about.html</key>
+		<data>
+		2D8bz4BuT6L0VtlMcu4w1i0h2yU=
+		</data>
 		<key>www/templates/achievement-card.html</key>
 		<data>
-		y4JNE+neL0R55dxQGtHGih4PMGU=
+		IMucfIFqy8G0ofN7BsCD4KSD/t4=
 		</data>
 		<key>www/templates/achievements.html</key>
 		<data>
-		PP7v8CeIseGxc7vt8OmxDZVNoHY=
+		UqT/DzUu2Y90Lx4X9pshJGgoqOQ=
+		</data>
+		<key>www/templates/menu.html</key>
+		<data>
+		tdA+XqJtKn8uUqz/iXhvVL4Aff8=
 		</data>
 		<key>www/templates/start-game.html</key>
 		<data>
-		q62GiFqVnDVJwW4OB0oY6rGPpjM=
+		4h3w2o/aP6D2Hq965tra8Vm8Ers=
 		</data>
 		<key>www/test.html</key>
 		<data>

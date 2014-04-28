@@ -9,7 +9,8 @@ angular.module('CampusQuest.directives',['ionic'])
             name: '=',
             description: '=',
             photo: '=',
-            complete: '='
+            complete: '=',
+            number: '='
         },
         controller: function($scope, $element, $attrs, $ionicPopup, $ionicActionSheet, QuestSession) {
             function cameraSuccess(imageData) {

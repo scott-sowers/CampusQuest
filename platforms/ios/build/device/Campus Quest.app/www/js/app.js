@@ -1,18 +1,46 @@
 angular.module('CampusQuest', ['ionic', 'apiMock', 'CampusQuest.services', 'CampusQuest.controllers', 'CampusQuest.directives'])
 
+.run(function($ionicPlatform) {
+  $ionicPlatform.ready(function() {
+    if(window.StatusBar) {
+      // org.apache.cordova.statusbar required
+      StatusBar.styleLightContent();
+    }
+  });
+})
+
 .config(function($stateProvider, $urlRouterProvider, $httpProvider, httpInterceptorProvider) {
 
     //Configure navigation
     $stateProvider
-        .state('achievements', {
+        .state('app', {
+            url: '/app',
+            abstract: true,
+            templateUrl: 'templates/menu.html',
+            controller: 'MenuCtrl'
+        })
+        .state('app.achievements', {
             url: "/achievements",
-            templateUrl: "templates/achievements.html",
-            controller: 'AchievementsCtrl'
+            views: {
+                'menuContent': {
+                    templateUrl: "templates/achievements.html",
+                    controller: 'AchievementsCtrl'
+                }
+            }
         })
         .state('startGame', {
             url: "/start-game",
             templateUrl: "templates/start-game.html",
             controller: 'StartGameCtrl'
+        })
+        .state('app.about', {
+            url: '/about',
+            views: {
+                'menuContent': {
+                    templateUrl: 'templates/about.html',
+                    controller: 'AboutCtrl'
+                }
+            }
         });
 
     $urlRouterProvider.otherwise("/start-game");

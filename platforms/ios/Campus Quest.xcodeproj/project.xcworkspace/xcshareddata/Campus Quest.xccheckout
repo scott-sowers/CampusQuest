@@ -5,19 +5,19 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>5AD0B1C3-0374-49E8-B2B9-B6549BDD7955</string>
+	<string>45B74BFB-6342-49A0-AE31-1D118BCDF90D</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Campus Quest</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>74899D62-838F-4037-82BC-93F81077EA09</key>
+		<key>46B7918A-5A69-4A9E-A17C-2D09C5E8CABC</key>
 		<string>https://github.com/scottso87/CampusQuest.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>platforms/ios/Campus Quest.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>74899D62-838F-4037-82BC-93F81077EA09</key>
+		<key>46B7918A-5A69-4A9E-A17C-2D09C5E8CABC</key>
 		<string>../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>74899D62-838F-4037-82BC-93F81077EA09</string>
+	<string>46B7918A-5A69-4A9E-A17C-2D09C5E8CABC</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>74899D62-838F-4037-82BC-93F81077EA09</string>
+			<string>46B7918A-5A69-4A9E-A17C-2D09C5E8CABC</string>
 			<key>IDESourceControlWCCName</key>
 			<string>CampusQuest</string>
 		</dict>
