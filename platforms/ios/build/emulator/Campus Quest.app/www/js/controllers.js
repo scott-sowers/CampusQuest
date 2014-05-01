@@ -10,14 +10,27 @@ angular.module('CampusQuest.controllers', ['ionic'])
 
 .controller('StartGameCtrl', function($scope, $state, $ionicPopup, QuestApi, QuestSession) {
     $scope.startGame = function(gameCode,teamName) {
+        // Check for network connectivity
+        if (navigator.connection.type == Connection.NONE) {
+            $ionicPopup.alert({
+                title: 'No Network Connection'
+            }).then(function(res) {
+                //
+            });
+            return;
+        }
 
+        // Retrieve the event details, given the event ID
         QuestApi.getEventByCode(gameCode).success(function(data) {
             var eventId = data.eventId;
             var achievements = data.eventGame.gameAchievements;
 
+            // Event details retrieved, add a team to the event and start the game
             QuestApi.addTeamToEvent(eventId,teamName).success(function(data) {
                 QuestSession.init(eventId, data.teamName, achievements, data.teamTeamAchievements);
                 $state.go('app.achievements');
+
+            // Team not added, game not started
             }).error(function(data) {
                 $ionicPopup.alert({
                     title: 'Invalid Team Name'
@@ -26,6 +39,7 @@ angular.module('CampusQuest.controllers', ['ionic'])
                 });
             });
 
+        // Event details not retrieved, throw an error
         }).error(function(data, status, headers) {
             $ionicPopup.alert({
                 title: 'Invalid Game Code'

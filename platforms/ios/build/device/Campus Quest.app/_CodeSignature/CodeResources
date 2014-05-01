@@ -38,7 +38,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		LcbAHcUcO+2NICBn8vTr8+GLBok=
+		GHJOgXzbi9wBCrvHqG3JOpH7LpQ=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		PRQpeESY5wCvIljPACzOoRk6uFU=
+		gHIWfaaOYjSLZz0HW6w364nHslY=
 		</data>
 		<key>www/css/ionic.css</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>www/js/controllers.js</key>
 		<data>
-		80lgqqkuxcF53wLTpJfUdQ0p3Yg=
+		HxbvCcRFCWjFJn2NSi2RzEkvPoQ=
 		</data>
 		<key>www/js/directives.js</key>
 		<data>
@@ -500,6 +500,14 @@
 		<data>
 		0VB068Ut1MbjDx+uAiPrdNduO1Y=
 		</data>
+		<key>www/plugins/org.apache.cordova.network-information/www/Connection.js</key>
+		<data>
+		3fU1awpwypgHcfMR1mvgoVTTcX0=
+		</data>
+		<key>www/plugins/org.apache.cordova.network-information/www/network.js</key>
+		<data>
+		zkJQNxITVYU39ShEp6yyTOO/zKw=
+		</data>
 		<key>www/plugins/org.apache.cordova.statusbar/www/statusbar.js</key>
 		<data>
 		O6kLo237EK8kmbTzvDnaHZtGlqQ=
@@ -514,7 +522,7 @@
 		</data>
 		<key>www/templates/achievements.html</key>
 		<data>
-		UqT/DzUu2Y90Lx4X9pshJGgoqOQ=
+		i0abkfWH9k5lS4O80bh8LhdPuL0=
 		</data>
 		<key>www/templates/menu.html</key>
 		<data>
@@ -569,7 +577,7 @@
 		</data>
 		<key>config.xml</key>
 		<data>
-		LcbAHcUcO+2NICBn8vTr8+GLBok=
+		GHJOgXzbi9wBCrvHqG3JOpH7LpQ=
 		</data>
 		<key>de.lproj/Localizable.strings</key>
 		<data>
@@ -645,7 +653,7 @@
 		</data>
 		<key>www/cordova_plugins.js</key>
 		<data>
-		PRQpeESY5wCvIljPACzOoRk6uFU=
+		gHIWfaaOYjSLZz0HW6w364nHslY=
 		</data>
 		<key>www/css/ionic.css</key>
 		<data>
@@ -729,7 +737,7 @@
 		</data>
 		<key>www/js/controllers.js</key>
 		<data>
-		80lgqqkuxcF53wLTpJfUdQ0p3Yg=
+		HxbvCcRFCWjFJn2NSi2RzEkvPoQ=
 		</data>
 		<key>www/js/directives.js</key>
 		<data>
@@ -1031,6 +1039,14 @@
 		<data>
 		0VB068Ut1MbjDx+uAiPrdNduO1Y=
 		</data>
+		<key>www/plugins/org.apache.cordova.network-information/www/Connection.js</key>
+		<data>
+		3fU1awpwypgHcfMR1mvgoVTTcX0=
+		</data>
+		<key>www/plugins/org.apache.cordova.network-information/www/network.js</key>
+		<data>
+		zkJQNxITVYU39ShEp6yyTOO/zKw=
+		</data>
 		<key>www/plugins/org.apache.cordova.statusbar/www/statusbar.js</key>
 		<data>
 		O6kLo237EK8kmbTzvDnaHZtGlqQ=
@@ -1045,7 +1061,7 @@
 		</data>
 		<key>www/templates/achievements.html</key>
 		<data>
-		UqT/DzUu2Y90Lx4X9pshJGgoqOQ=
+		i0abkfWH9k5lS4O80bh8LhdPuL0=
 		</data>
 		<key>www/templates/menu.html</key>
 		<data>
