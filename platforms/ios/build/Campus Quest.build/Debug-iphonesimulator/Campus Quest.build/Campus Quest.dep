@@ -1,5 +1,5 @@
 967feb2a94b2afce4302afffc7153827 fb0e43fd6121f1caa670da7b2ec17072 ffffffffffffffffffffffffffffffff 1020 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app
-000000005362c55b0000000000000a15 3ca7cf38f6ec65ffff581917548fe49a ffffffffffffffffffffffffffffffff 0 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/PkgInfo
+00000000536331700000000000000a15 3ca7cf38f6ec65ffff581917548fe49a ffffffffffffffffffffffffffffffff 0 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/PkgInfo
 00000000535e7f180000000000002dba 6ad6eadb1b27d475afdbae236e6ed542 ffffffffffffffffffffffffffffffff 11706 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/icon-72@2x.png
 00000000535e7f180000000000003b9e dcaab2bcd2c963a4a4222b43b17db8a8 ffffffffffffffffffffffffffffffff 15262 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/icon-76@2x.png
 00000000535e7f18000000000000258b 0c962498416b73eacb5af838d8b7b3a9 ffffffffffffffffffffffffffffffff 9611 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/icon-50@2x.png
@@ -24,8 +24,8 @@
 00000000535e7f180000000000001350 bf3053d01228dc3ba3c963d8db5e7b63 ffffffffffffffffffffffffffffffff 4944 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/icon-72.png
 00000000535e7f180000000000001cf3 38fb44afe5853d94f6de94eab747699a ffffffffffffffffffffffffffffffff 7411 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/icon-40@2x.png
 00000000535e7f180000000000001b71 950abb522399a9e4bc007f8b26812294 ffffffffffffffffffffffffffffffff 7025 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/icon-76.png
-1a7415300fdfc0590075127ffb4d3328 133ac5ea9ff25db32adfcb7335f650a7 ffffffffffffffffffffffffffffffff 102 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
-000000005362c55b0000000000000a15 3ca7cf38f6ec65ffff581917548fe49a ffffffffffffffffffffffffffffffff 1293 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
+1a7415300fde34720075127ffb4d3328 133ac5ea9ff25db32adfcb7335f650a7 ffffffffffffffffffffffffffffffff 102 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
+00000000536331700000000000000a15 3ca7cf38f6ec65ffff581917548fe49a ffffffffffffffffffffffffffffffff 1293 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
 a101d890eaa069b553b0d4b59ec09a7c 26d3da08f953e6a0ff2d0b68aeaa5b83 ffffffffffffffffffffffffffffffff 411628 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
 d32efc6f7b674d3d59d75a4b2d5776e0 636e5b338f72e9092c924d070651db28 ffffffffffffffffffffffffffffffff 20628 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/CDVReachability.o
 d32efc6f7b674d3d59d75a4b2d574084 c26f83a365ff322b7f2299b299e970d4 ffffffffffffffffffffffffffffffff 56200 /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Objects-normal/i386/CDVConnection.o

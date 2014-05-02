@@ -11,14 +11,14 @@ angular.module('CampusQuest.controllers', ['ionic'])
 .controller('StartGameCtrl', function($scope, $state, $ionicPopup, QuestApi, QuestSession) {
     $scope.startGame = function(gameCode,teamName) {
         // Check for network connectivity
-        if (navigator.connection.type == Connection.NONE) {
+        /*if (navigator.connection.type == Connection.NONE) {
             $ionicPopup.alert({
                 title: 'No Network Connection'
             }).then(function(res) {
                 //
             });
             return;
-        }
+        }*/
 
         // Retrieve the event details, given the event ID
         QuestApi.getEventByCode(gameCode).success(function(data) {
@@ -50,10 +50,15 @@ angular.module('CampusQuest.controllers', ['ionic'])
     };
 })
 
-.controller('AchievementsCtrl', function($scope, $state, $ionicPopup, $ionicSideMenuDelegate, QuestApi, QuestSession) {
+.controller('AchievementsCtrl', function($scope, $state, $timeout, $ionicPopup, $ionicSideMenuDelegate, QuestApi, QuestSession) {
 
         $scope.achievements = QuestSession.getAchievements();
         $scope.toggleLeft = function() {
             $ionicSideMenuDelegate.toggleLeft();
         }
+        $scope.$watch('achievements', function() {
+            $timeout(function() {
+                $scope.myScroll.refresh();
+            }, 500);
+        }, true);
 });

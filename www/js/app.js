@@ -1,4 +1,4 @@
-angular.module('CampusQuest', ['ionic', 'apiMock', 'CampusQuest.services', 'CampusQuest.controllers', 'CampusQuest.directives'])
+angular.module('CampusQuest', ['ionic', 'apiMock', 'ng-iscroll', 'CampusQuest.services', 'CampusQuest.controllers', 'CampusQuest.directives'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {

@@ -1,6 +1,7 @@
-<div class="card"  ng-click="editPhoto()">
-    <div class="item item-divider">
-        <h2>{{number}}. {{name}}</h2>
+<div class="card">
+    <div class="item item-divider item-icon-right">
+        {{number}}. {{name}}
+        <i class="icon ion-camera" ng-click="editPhoto()"></i>
     </div>
     <div class="item item-image" ng-show="complete">
         <img src="{{photo}}" />
