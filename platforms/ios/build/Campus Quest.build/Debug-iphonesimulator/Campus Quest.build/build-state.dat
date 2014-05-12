@@ -258,8 +258,8 @@ t1397583848
 s20812
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist
-c00000000536331700000000000000A15
-t1399009648
+c00000000536AC2B00000000000000A15
+t1399505584
 s2581
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Prefix.pch
@@ -524,11 +524,11 @@ t1398701858
 s45
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app
-t1399009649
+t1399505585
 s1020
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
-t1399009500
+t1399505424
 s102
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
@@ -564,7 +564,7 @@ t1398701858
 s10394
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
-t1399009648
+t1399505584
 s1293
 
 N/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/MainViewController.nib
@@ -885,7 +885,7 @@ s5374132
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6aa3bef06813b941^3dd4bef06813b941^---0#1#1#--18"Check dependencies36"3DD65DF1-1CBD-4E03-ACBA-6624C396C0D9-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies2c82b330fa1ab941^bcaeb330fa1ab941^---0#1#1#--18"Check dependencies36"1341DC2B-05F9-45BD-BD67-D5B4D69CB463-
 
 CCompileC build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Objects-normal/i386/AppDelegate.o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420394660.872375
@@ -1342,14 +1342,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"Copy bu
 bC2F2AF14-C561-4A04-807E-E09A895F4A6A
 
 CGenerateDSYMFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest
-s420702449.071837
-e420702449.112853
+s421198385.150598
+e421198385.195967
 r1
 xGenerateDSYMFile
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Campus Quest
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM117"[1mGenerateDSYMFile[0m [1mbuild/emulator/Campus\ Quest.app.dSYM[0m build/emulator/Campus\ Quest.app/Campus\ Quest967a12f16813b941^d1e61cf16813b941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus%20Quest.app.dSYM/0000000000000000^726"[1mGenerateDSYMFile[0m [1mbuild/emulator/Campus\ Quest.app.dSYM[0m build/emulator/Campus\ Quest.app/Campus\ Quest    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM36"4167E4ED-0F98-4A19-953E-2DD513020659-
-bDE0BF285-218F-449A-B118-4B25CAC9FF30
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Generate /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app.dSYM117"[1mGenerateDSYMFile[0m [1mbuild/emulator/Campus\ Quest.app.dSYM[0m build/emulator/Campus\ Quest.app/Campus\ Quest5ea22631fa1ab941^b22e3231fa1ab941^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus%20Quest.app.dSYM/0000000000000000^726"[1mGenerateDSYMFile[0m [1mbuild/emulator/Campus\ Quest.app.dSYM[0m build/emulator/Campus\ Quest.app/Campus\ Quest    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app.dSYM36"70C2EAF0-D10F-48CB-8431-C821F1A88DEC-
+b876D5933-3D60-4958-BF15-CB4DAA814E55
 
 CLd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Campus\ Quest normal i386
 s420525983.904856
@@ -1440,28 +1440,28 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Link /
 b74258309-550E-4271-97D5-2A2D67D794B5
 
 CPhaseScriptExecution Copy\ www\ directory /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh
-s420702448.756546
-e420702449.065113
+s421198384.713508
+e421198385.144034
 r1
 xPhaseScriptExecution
 xCopy www directory
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus Quest.build/Debug-iphonesimulator/Campus Quest.build/Script-304B58A110DAC018002A0835.sh
 o
-oreal	0m0.292s
-ouser	0m0.107s
-osys	0m0.179s
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'152"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh48fdc1f06813b941^c1ac10f16813b941^-42"real	0m0.292suser	0m0.107ssys	0m0.179s3(21%IDEActivityLogMessage2@14"real	0m0.292s-420702449#1#14#-0#-----2@14"user	0m0.107s-420702449#15#14#-0#-----2@13"sys	0m0.179s-420702449#29#13#-0#-----0#0#1#--396"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    /bin/sh -c \"/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh\"36"BB6F1EC2-9238-40F2-91A3-2D95912B0844-
-bDE0BF285-218F-449A-B118-4B25CAC9FF30
+oreal	0m0.406s
+ouser	0m0.121s
+osys	0m0.274s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Run custom shell script 'Copy www directory'152"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.shccf1b630fa1ab941^3fe22731fa1ab941^-42"real	0m0.406suser	0m0.121ssys	0m0.274s3(21%IDEActivityLogMessage2@14"real	0m0.406s-421198385#1#14#-0#-----2@14"user	0m0.121s-421198385#15#14#-0#-----2@13"sys	0m0.274s-421198385#29#13#-0#-----0#0#1#--396"[1mPhaseScriptExecution[0m Copy\ www\ directory build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    /bin/sh -c \"/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/Campus\ Quest.build/Debug-iphonesimulator/Campus\ Quest.build/Script-304B58A110DAC018002A0835.sh\"36"2B55509F-DF18-40D5-AAB0-A36772CC9890-
+b876D5933-3D60-4958-BF15-CB4DAA814E55
 
 CProcessInfoPlistFile /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist
-s420702448.746259
-e420702448.755557
+s421198384.702464
+e421198384.712294
 r1
 xProcessInfoPlistFile
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app/Info.plist
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist119"[1mProcessInfoPlistFile[0m build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m6823bff06813b941^236bc1f06813b941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Info.plist0000000000000000^827"[1mProcessInfoPlistFile[0m build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist -genpkginfo /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist36"BFDCB64A-A58F-47DB-9DA2-E1343FEE0CA7-
-bDE0BF285-218F-449A-B118-4B25CAC9FF30
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Process /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus Quest/Campus Quest-Info.plist119"[1mProcessInfoPlistFile[0m build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m21e5b330fa1ab941^6457b630fa1ab941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus%20Quest/Campus%20Quest-Info.plist0000000000000000^827"[1mProcessInfoPlistFile[0m build/emulator/Campus\ Quest.app/Info.plist [1mCampus\ Quest/Campus\ Quest-Info.plist[0m    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    builtin-infoPlistUtility /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/Campus\ Quest/Campus\ Quest-Info.plist -genpkginfo /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app/Info.plist36"AA444B42-0769-40BB-BF14-EC37A1AED384-
+b876D5933-3D60-4958-BF15-CB4DAA814E55
 
 CProcessPCH /var/folders/z_/ylrchvcj1bz0md0n4yg00jhr0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Campus\ Quest-Prefix-czhipxemzxiqncegwlpguphirsbk/Campus\ Quest-Prefix.pch.pch Campus\ Quest/Campus\ Quest-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s420394660.598634
@@ -1479,11 +1479,11 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precomp
 bC2F2AF14-C561-4A04-807E-E09A895F4A6A
 
 CTouch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app
-s420702449.113682
-e420702449.117474
+s421198385.196683
+e421198385.201454
 r1
 xTouch
 x/Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app46"[1mTouch[0m build/emulator/Campus\ Quest.appaa291df16813b941^7f131ef16813b941^---0#0#1#--465"[1mTouch[0m build/emulator/Campus\ Quest.app    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app36"7908BC08-0838-400B-95B0-A1CA0BE15523-
-bDE0BF285-218F-449A-B118-4B25CAC9FF30
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Touch /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus Quest.app46"[1mTouch[0m build/emulator/Campus\ Quest.app88663231fa1ab941^03933331fa1ab941^---0#0#1#--465"[1mTouch[0m build/emulator/Campus\ Quest.app    cd /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/scsowers/Documents/Apps/CampusQuest/platforms/ios/build/emulator/Campus\ Quest.app36"68200C24-AFA4-47F5-8241-04B78E1000F9-
+b876D5933-3D60-4958-BF15-CB4DAA814E55
 

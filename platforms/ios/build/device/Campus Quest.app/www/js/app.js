@@ -13,35 +13,29 @@ angular.module('CampusQuest', ['ionic', 'apiMock', 'ng-iscroll', 'CampusQuest.se
 
     //Configure navigation
     $stateProvider
-        .state('app', {
+        /*.state('app', {
             url: '/app',
             abstract: true,
             templateUrl: 'templates/menu.html',
             controller: 'MenuCtrl'
+        })*/
+
+        .state('app', {
+            url: "/app",
+            templateUrl: "templates/app.html",
+            controller: "MenuCtrl",
+            abstract: true
         })
-        .state('app.achievements', {
+        .state('achievements', {
             url: "/achievements",
-            views: {
-                'menuContent': {
-                    templateUrl: "templates/achievements.html",
-                    controller: 'AchievementsCtrl'
-                }
-            }
+            templateUrl: "templates/achievements.html",
+            controller: 'AchievementsCtrl'
         })
         .state('startGame', {
             url: "/start-game",
             templateUrl: "templates/start-game.html",
             controller: 'StartGameCtrl'
         })
-        .state('app.about', {
-            url: '/about',
-            views: {
-                'menuContent': {
-                    templateUrl: 'templates/about.html',
-                    controller: 'AboutCtrl'
-                }
-            }
-        });
 
     $urlRouterProvider.otherwise("/start-game");
 

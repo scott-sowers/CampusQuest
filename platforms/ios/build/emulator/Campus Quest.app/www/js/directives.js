@@ -45,6 +45,7 @@ angular.module('CampusQuest.directives',['ionic'])
                         switch(index) {
                             case 0:
                                 navigator.camera.getPicture( cameraSuccess, cameraError, {
+                                    quality: 50,
                                     sourceType: Camera.PictureSourceType.CAMERA,
                                     destinationType: Camera.DestinationType.FILE_URI
                                 });
@@ -72,6 +73,7 @@ angular.module('CampusQuest.directives',['ionic'])
                         switch(index) {
                             case 0:
                                 navigator.camera.getPicture( cameraSuccess, cameraError, {
+                                    quality: 50,
                                     sourceType: Camera.PictureSourceType.CAMERA,
                                     destinationType: Camera.DestinationType.FILE_URI
                                 });

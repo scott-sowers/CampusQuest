@@ -194,15 +194,15 @@
 		</data>
 		<key>www/js/app.js</key>
 		<data>
-		WMpZM6p/55O8FHAW9Ep+YQYK3aE=
+		par3GFbuNT8lEh7ZIeyXW99sXeo=
 		</data>
 		<key>www/js/controllers.js</key>
 		<data>
-		nW9UU4CWUoMz9bI1WEtMM8iJtak=
+		Gfo2EvLW1lC0HQd3BH0XGnsiWDw=
 		</data>
 		<key>www/js/directives.js</key>
 		<data>
-		yjOdTl8rtDqxtx6svBa3zOclMF4=
+		9WOr5bwmsI9dN10HsX0CvednUmE=
 		</data>
 		<key>www/js/ionic-angular.js</key>
 		<data>
@@ -522,23 +522,27 @@
 		</data>
 		<key>www/templates/about.html</key>
 		<data>
-		2D8bz4BuT6L0VtlMcu4w1i0h2yU=
+		1qbXGhei0VPnz9BiA+YwD0i6IOQ=
 		</data>
 		<key>www/templates/achievement-card.html</key>
 		<data>
-		Aj6kTy88zw4Er4d0fFO7MRlS2yQ=
+		6YsTr6QVWV+xgbVCWYF8il63VUE=
 		</data>
 		<key>www/templates/achievements.html</key>
 		<data>
-		CnshxOdyYNqsRE5ZKC38RBHMLTY=
+		kpVHn8bNvvpC9aeXpFhPursXGyw=
+		</data>
+		<key>www/templates/app.html</key>
+		<data>
+		D7/NZ7lAWnUdnt0IvhZWQFxp8c4=
 		</data>
 		<key>www/templates/menu.html</key>
 		<data>
-		tdA+XqJtKn8uUqz/iXhvVL4Aff8=
+		jKj042ZQrrxG7YytIRM/o+hDVjg=
 		</data>
 		<key>www/templates/start-game.html</key>
 		<data>
-		4h3w2o/aP6D2Hq965tra8Vm8Ers=
+		Zc4YFsJ/dKLCAST4uN/zxpy0pRY=
 		</data>
 		<key>www/test.html</key>
 		<data>
@@ -741,15 +745,15 @@
 		</data>
 		<key>www/js/app.js</key>
 		<data>
-		WMpZM6p/55O8FHAW9Ep+YQYK3aE=
+		par3GFbuNT8lEh7ZIeyXW99sXeo=
 		</data>
 		<key>www/js/controllers.js</key>
 		<data>
-		nW9UU4CWUoMz9bI1WEtMM8iJtak=
+		Gfo2EvLW1lC0HQd3BH0XGnsiWDw=
 		</data>
 		<key>www/js/directives.js</key>
 		<data>
-		yjOdTl8rtDqxtx6svBa3zOclMF4=
+		9WOr5bwmsI9dN10HsX0CvednUmE=
 		</data>
 		<key>www/js/ionic-angular.js</key>
 		<data>
@@ -1069,23 +1073,27 @@
 		</data>
 		<key>www/templates/about.html</key>
 		<data>
-		2D8bz4BuT6L0VtlMcu4w1i0h2yU=
+		1qbXGhei0VPnz9BiA+YwD0i6IOQ=
 		</data>
 		<key>www/templates/achievement-card.html</key>
 		<data>
-		Aj6kTy88zw4Er4d0fFO7MRlS2yQ=
+		6YsTr6QVWV+xgbVCWYF8il63VUE=
 		</data>
 		<key>www/templates/achievements.html</key>
 		<data>
-		CnshxOdyYNqsRE5ZKC38RBHMLTY=
+		kpVHn8bNvvpC9aeXpFhPursXGyw=
+		</data>
+		<key>www/templates/app.html</key>
+		<data>
+		D7/NZ7lAWnUdnt0IvhZWQFxp8c4=
 		</data>
 		<key>www/templates/menu.html</key>
 		<data>
-		tdA+XqJtKn8uUqz/iXhvVL4Aff8=
+		jKj042ZQrrxG7YytIRM/o+hDVjg=
 		</data>
 		<key>www/templates/start-game.html</key>
 		<data>
-		4h3w2o/aP6D2Hq965tra8Vm8Ers=
+		Zc4YFsJ/dKLCAST4uN/zxpy0pRY=
 		</data>
 		<key>www/test.html</key>
 		<data>
