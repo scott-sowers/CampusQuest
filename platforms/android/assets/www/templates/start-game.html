@@ -1,0 +1,54 @@
+<ion-nav-bar class="bar-positive nav-title-slide-ios7">
+</ion-nav-bar>
+<ion-view title="Campus Quest">
+    <ion-content class="has-header" padding="true">
+        <form name="startForm">
+            <div class="list list-inset">
+                <label class="item item-input">
+                    <input
+                        name="gameCode"
+                        type="text"
+                        placeholder="Game Code"
+                        ng-model="data.gameCode"
+                        ng-pattern="/^[a-zA-Z0-9]+$/"
+                        required  />
+                </label>
+                <label class="item item-input">
+                    <input
+                        name="teamName"
+                        type="text"
+                        placeholder="Team Name"
+                        ng-model="data.teamName"
+                        ng-pattern="/^[a-zA-Z\s]+$/"
+                        required  />
+                </label>
+                <div
+                    class="row error-message"
+                    ng-show="startForm.gameCode.$error.required && startForm.gameCode.$dirty">
+                    Game Code required
+                </div>
+                <div
+                    class="row error-message"
+                    ng-show="startForm.gameCode.$error.pattern">
+                    Game Codes contain only letters and numbers
+                </div>
+                <div
+                    class="row error-message"
+                    ng-show="startForm.teamName.$error.required && startForm.teamName.$dirty">
+                    Team Name required
+                </div>
+                <div
+                    class="row error-message"
+                    ng-show="startForm.teamName.$error.pattern">
+                    Team Names must not include numbers or special characters
+                </div>
+                <button
+                    class="button button-block button-dark"
+                    ng-click="startGame(data.gameCode.trim(), data.teamName.trim())"
+                    ng-disabled="startForm.$invalid">
+                    Start Game
+                </button>
+            </div>
+        </form>
+    </ion-content>
+</ion-view>

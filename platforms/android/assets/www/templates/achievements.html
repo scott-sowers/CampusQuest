@@ -1,0 +1,20 @@
+<ion-nav-bar class="bar-positive nav-title-slide-ios7">
+</ion-nav-bar>
+<ion-view title="Achievements" hide-back-button="true">
+    <ion-nav-buttons side="left">
+        <button ng-click="openModal()" class="button button-clear ion-ios7-gear-outline button-icon"></button>
+    </ion-nav-buttons>
+    <ion-content class="has-header" padding="true" ng-iscroll scroll="false">
+        <div id="scroller">
+            <achievement-card ng-repeat="achievement in achievements"
+                name="achievement.achievementName"
+                id="achievement.achievementId"
+                description="achievement.achievementDescription"
+                photo="achievement.achievementPhoto"
+                complete="achievementComplete"
+                ng-init="number = $index + 1"
+                number="number"
+                ></achievement-card>
+        </div>
+    </ion-content>
+</ion-view>

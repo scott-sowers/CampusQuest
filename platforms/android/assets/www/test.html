@@ -1,0 +1,143 @@
+<!doctype html>
+<html ng-app="myApp">
+<head>
+    <meta charset="UTF-8">
+    <title>Untitled Document</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.2.14/angular.min.js"></script>
+    <script src="js/api-mock.js"></script>
+</head>
+<body>
+    <div ng-controller="StartGameCtrl">
+        <button ng-click="startGame('B7HU1','Team Scott')">Start Game</button>
+        <div><strong>Message: </strong>{{message}}
+    </div>
+    <div ng-controller="AchievementsCtrl">
+        <pre>
+            {{achievements | json}}
+        </pre>
+    </div>
+<script>
+var app = angular.module('myApp', ['apiMock'])
+
+.config(function($httpProvider, httpInterceptorProvider) {
+    $httpProvider.defaults.useXDomain = true;
+    delete $httpProvider.defaults.headers.common['X-Requested-With'];
+    $httpProvider.defaults.headers.post['Content-Type'] = 'application/x-www-form-urlencoded';
+
+    // Configure API Mock
+    httpInterceptorProvider.config({
+        mockDataPath: 'mock_data',
+        apiPath: 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api',
+        apiMocked: false
+    });
+})
+
+.factory('QuestSession', function($rootScope) {
+    var _teamName;
+    var _eventId;
+    var _achievements = [];
+
+    function initAchievements(eventAchievements, teamAchievements) {
+        var defaultPhoto = '/img/achievement-placeholder.png';
+        for (var i = 0; i < eventAchievements.length; i++) {
+            eventAchievements[i].achievementPhoto = defaultPhoto;
+            eventAchievements[i].achievementComplete = false;
+        }
+        return eventAchievements;
+    };
+
+    return {
+        teamName: _teamName,
+        eventId: _eventId,
+        achievements: _achievements,
+        init: function(eventId, teamName, eventAchievements, teamAchievements) {
+            _eventId = eventId;
+            _teamName = teamName;
+            _achievements = initAchievements(eventAchievements, teamAchievements);
+            $rootScope.$broadcast('achievementsUpdated');
+        },
+        getAchievements: function() {
+            return _achievements;
+        }
+    };
+})
+
+.factory('QuestApi', function($http) {
+    var _baseUrl = 'http://ec2-54-201-182-243.us-west-2.compute.amazonaws.com:18080/api';
+    var _doRequest = function(method, urlParams) {
+        var data = arguments[2] || '';
+        return $http({
+            method: method,
+            url: _baseUrl + '/' + urlParams,
+            data: data
+        });
+    };
+
+    return {
+        getEventByCode: function(eventCode) {
+            return _doRequest('GET', 'event/retrieve/code/' + eventCode);
+        },
+        addTeamToEvent: function(eventId, teamName) {
+            var data = [{
+                name: teamName,
+                point: 0,
+                events: [{
+                    id: eventId
+                }]
+            }];
+            return _doRequest('POST', 'team/add', data);
+        },
+        addTeamAchievement: function(teamId, achievementId, photoUrl) {
+            var data = [{
+                team: teamId,
+                achievement: achievementId,
+                picture: photoUrl
+            }];
+            return _doRequest('POST', 'teamachievement/add', data);
+        },
+        editTeamAchievement: function(teamId, achievementId, photoUrl) {
+            var data = [{
+                team: teamId,
+                achievement: achievementId,
+                picture: photoUrl
+            }];
+            return _doRequest('PUT', 'teamachievement/edit', data);
+        },
+        getTeamByName: function(teamName) {
+            return _doRequest('GET', 'team/retrieve/name/' + teamName);
+        }
+    };
+})
+
+.controller('StartGameCtrl', function($scope, QuestApi, QuestSession) {
+    $scope.startGame = function(gameCode,teamName) {
+
+        QuestApi.getEventByCode(gameCode).success(function(data) {
+            var eventId = data.eventId;
+            var achievements = data.eventGame.gameAchievements;
+
+            QuestApi.addTeamToEvent(eventId,teamName).success(function(data) {
+                QuestSession.init(eventId, data.teamName, achievements, data.teamTeamAchievements);
+                $scope.message = 'Game Started'
+            }).error(function(data) {
+                $scope.message = 'Invalid Team Name';
+            });
+
+        }).error(function(data, status, headers) {
+            $scope.message = 'Invalid Game Code';
+        });
+    };
+})
+
+.controller('AchievementsCtrl', function($scope, QuestApi, QuestSession) {
+        $scope.$on('achievementsUpdated', function() {
+            $scope.achievements = QuestSession.getAchievements();
+        });
+
+
+
+});
+
+</script>
+</body>
+</html>
